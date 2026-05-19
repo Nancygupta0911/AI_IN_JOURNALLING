@@ -1,0 +1,401 @@
+span_id,journal_id,text,span,gold_label
+gold_0210,journal_210,multiple things at once for 3 hours.,multiple things at once,PRODUCTIVITY
+gold_0281,journal_281,Spent 2 hours appreciation.,appreciation,SOCIAL
+gold_0034,journal_34,No blogged today. Too exhausted.,blogged,CREATIVE
+gold_0211,journal_211,Woke up and got distracted around 6am.,got distracted,PRODUCTIVITY
+gold_0094,journal_94,gym time and it felt amazing.,gym time,FITNESS
+gold_0085,journal_85,netflix all night at 3am.,netflix all night,ENTERTAINMENT
+gold_0330,journal_330,Managed to reflecting even though I was tired.,reflecting,WELLNESS
+gold_0095,journal_95,morning jog and it felt amazing.,morning jog,FITNESS
+gold_0267,journal_267,before 6am at 6am.,before 6am,SLEEP
+gold_0127,journal_127,read news today.,read news,INFORMATION
+gold_0010,journal_10,Spent an hour overnight study.,overnight study,ACADEMICS
+gold_0362,journal_362,doom scrolling,scrolling,DIGITAL
+gold_0057,journal_57,endless scrolling today.,endless scrolling,DIGITAL
+gold_0073,journal_73,episode after episode for about an hour.,episode after episode,ENTERTAINMENT
+gold_0133,journal_133,newspaper again. Need to stop this.,newspaper,INFORMATION
+gold_0043,journal_43,online shopping when I should have been working.,online shopping,DAILY_LIVING
+gold_0279,journal_279,Another day of helped someone. Getting worried.,helped someone,SOCIAL
+gold_0377,journal_377,mindless scrolling,scrolling,DIGITAL
+gold_0232,journal_232,Avoided building something all day.,building something,PROFESSIONAL
+gold_0386,journal_386,ate junk food again,ate junk food,NUTRITION
+gold_0078,journal_78,Managed to movie marathon even though I was tired.,movie marathon,ENTERTAINMENT
+gold_0016,journal_16,Didn't studied with friends today. Feel bad about it.,studied with friends,ACADEMICS
+gold_0392,journal_392,didn't study at all,study,ACADEMICS
+gold_0272,journal_272,volunteer activity like usual.,volunteer activity,SOCIAL
+gold_0001,journal_1,went to lecture like usual.,went to lecture,ACADEMICS
+gold_0397,journal_397,mindless scrolling,scrolling,DIGITAL
+gold_0115,journal_115,Can't believe I made something for the third time this week.,made something,HOBBIES
+gold_0226,journal_226,3 hours of business meeting today.,business meeting,PROFESSIONAL
+gold_0263,journal_263,2 hours of up before dawn today.,up before dawn,SLEEP
+gold_0105,journal_105,Woke up and riding bike around 6am.,riding bike,FITNESS
+gold_0396,journal_396,excessive coffee drinking,coffee,NUTRITION
+gold_0194,journal_194,skipped breakfast at 3am.,skipped breakfast,NUTRITION
+gold_0262,journal_262,Spent 30 minutes trouble sleeping.,trouble sleeping,SLEEP
+gold_0058,journal_58,Actually social media time like I planned.,social media time,DIGITAL
+gold_0233,journal_233,Skipped stayed late at office again.,stayed late at office,PROFESSIONAL
+gold_0117,journal_117,Another day of planting. Getting worried.,planting,HOBBIES
+gold_0114,journal_114,crafts in the morning. Great start.,crafts,HOBBIES
+gold_0343,journal_343,feeling really anxious lately,anxious,MENTAL_STATE
+gold_0159,journal_159,Late night listening to songs at 11pm.,listening to songs,LEISURE
+gold_0142,journal_142,Failed to newspaper like I planned.,newspaper,INFORMATION
+gold_0382,journal_382,doom scrolling,scrolling,DIGITAL
+gold_0056,journal_56,Spent some time scrolling bad news.,scrolling bad news,DIGITAL
+gold_0077,journal_77,Managed to performance even though I was tired.,performance,ENTERTAINMENT
+gold_0026,journal_26,wrote when I should have been working.,wrote,CREATIVE
+gold_0083,journal_83,youtube binge for 30 minutes.,youtube binge,ENTERTAINMENT
+gold_0383,journal_383,feeling really anxious lately,anxious,MENTAL_STATE
+gold_0149,journal_149,Finally time with pet after putting it off.,time with pet,LEISURE
+gold_0182,journal_182,Did my regular snacked at night.,snacked at night,NUTRITION
+gold_0023,journal_23,Managed to blogged even though I was tired.,blogged,CREATIVE
+gold_0174,journal_174,Spent 45 minutes overloaded.,overloaded,MENTAL_STATE
+gold_0047,journal_47,tidied up for an hour.,tidied up,DAILY_LIVING
+gold_0322,journal_322,No smoke break today. Too exhausted.,smoke break,SUBSTANCE
+gold_0339,journal_339,Woke up and saw therapist around 6am.,saw therapist,WELLNESS
+gold_0071,journal_71,Wanted to phone scrolling but couldn't find time.,phone scrolling,DIGITAL
+gold_0375,journal_375,late night gaming session,gaming,ENTERTAINMENT
+gold_0040,journal_40,shopping trip today. Felt really good!,shopping trip,DAILY_LIVING
+gold_0224,journal_224,Another day of professional work. Getting worried.,professional work,PROFESSIONAL
+gold_0173,journal_173,Spent 30 minutes has to be perfect.,has to be perfect,MENTAL_STATE
+gold_0031,journal_31,Woke up and essay writing around 11pm.,essay writing,CREATIVE
+gold_0153,journal_153,fresh air all night. Regret it now.,fresh air,LEISURE
+gold_0125,journal_125,Avoided photography all day.,photography,HOBBIES
+gold_0295,journal_295,Another day of church. Getting worried.,church,SPIRITUAL
+gold_0256,journal_256,Finally insomnia after putting it off.,insomnia,SLEEP
+gold_0079,journal_79,tv marathon when I should have been working.,tv marathon,ENTERTAINMENT
+gold_0102,journal_102,45 minutes of morning jog today.,morning jog,FITNESS
+gold_0032,journal_32,drafted post at 3am.,drafted post,CREATIVE
+gold_0353,journal_353,skipped breakfast again,skipped breakfast,NUTRITION
+gold_0269,journal_269,Avoided up with sunrise all day.,up with sunrise,SLEEP
+gold_0395,journal_395,late night gaming session,gaming,ENTERTAINMENT
+gold_0074,journal_74,binged netflix for about an hour.,binged netflix,ENTERTAINMENT
+gold_0321,journal_321,Late night did drugs at 2am.,did drugs,SUBSTANCE
+gold_0141,journal_141,Late night news at 2am.,news,INFORMATION
+gold_0006,journal_6,peer learning and it felt amazing.,peer learning,ACADEMICS
+gold_0046,journal_46,commuted for 2 hours.,commuted,DAILY_LIVING
+gold_0389,journal_389,did yoga practice,yoga practice,FITNESS
+gold_0247,journal_247,Woke up and took course around 8am.,took course,SELF_IMPROVEMENT
+gold_0228,journal_228,an hour of work meeting today.,work meeting,PROFESSIONAL
+gold_0370,journal_370,worked on side project,side project,PROFESSIONAL
+gold_0177,journal_177,Late night didn't make it at midnight.,didn't make it,MENTAL_STATE
+gold_0290,journal_290,Did my regular praying.,praying,SPIRITUAL
+gold_0004,journal_4,Managed to virtual class even though I was tired.,virtual class,ACADEMICS
+gold_0019,journal_19,blog post like usual.,blog post,CREATIVE
+gold_0203,journal_203,Managed to productive focus even though I was tired.,productive focus,PRODUCTIVITY
+gold_0251,journal_251,No training today. Too exhausted.,training,SELF_IMPROVEMENT
+gold_0275,journal_275,Actually friends hangout like I planned.,friends hangout,SOCIAL
+gold_0064,journal_64,Spent 3 hours video chat.,video chat,DIGITAL
+gold_0249,journal_249,skill practice at 11pm.,skill practice,SELF_IMPROVEMENT
+gold_0302,journal_302,Late night devotion at 3am.,devotion,SPIRITUAL
+gold_0109,journal_109,band practice for about an hour.,band practice,HOBBIES
+gold_0091,journal_91,Did my regular morning walk.,morning walk,FITNESS
+gold_0234,journal_234,Couldn't bring myself to email work.,email work,PROFESSIONAL
+gold_0336,journal_336,2 hours of relaxation today.,relaxation,WELLNESS
+gold_0119,journal_119,gardened for 2 hours.,gardened,HOBBIES
+gold_0221,journal_221,long work day in the morning. Great start.,long work day,PROFESSIONAL
+gold_0181,journal_181,Did my regular drank espresso.,drank espresso,NUTRITION
+gold_0315,journal_315,Another day of cigars. Getting worried.,cigars,SUBSTANCE
+gold_0374,journal_374,avoided work all day,avoided work,PROFESSIONAL
+gold_0381,journal_381,pulled all-nighter,all-nighter,SLEEP
+gold_0240,journal_240,online learning today. Felt really good!,online learning,SELF_IMPROVEMENT
+gold_0076,journal_76,Managed to video games even though I was tired.,video games,ENTERTAINMENT
+gold_0248,journal_248,Late night skill building at midnight.,skill building,SELF_IMPROVEMENT
+gold_0111,journal_111,Spent some time drew.,drew,HOBBIES
+gold_0017,journal_17,Skipped collaborative study again.,collaborative study,ACADEMICS
+gold_0067,journal_67,Late night endless scrolling at midnight.,endless scrolling,DIGITAL
+gold_0154,journal_154,Spent 3 hours music time.,music time,LEISURE
+gold_0008,journal_8,Wasted time no sleep studying. So unproductive.,no sleep studying,ACADEMICS
+gold_0020,journal_20,drafted post like usual.,drafted post,CREATIVE
+gold_0138,journal_138,Spent 2 hours reading news.,reading news,INFORMATION
+gold_0356,journal_356,excessive coffee drinking,coffee,NUTRITION
+gold_0350,journal_350,worked on side project,side project,PROFESSIONAL
+gold_0132,journal_132,news and it felt amazing.,news,INFORMATION
+gold_0388,journal_388,went for morning run,morning run,FITNESS
+gold_0293,journal_293,Finally went to church after putting it off.,went to church,SPIRITUAL
+gold_0387,journal_387,couldn't sleep at all,sleep,SLEEP
+gold_0298,journal_298,Spent 30 minutes praying.,praying,SPIRITUAL
+gold_0061,journal_61,endless scrolling when I should have been working.,endless scrolling,DIGITAL
+gold_0080,journal_80,Wasted time attended show. So unproductive.,attended show,ENTERTAINMENT
+gold_0286,journal_286,No received call today. Too exhausted.,received call,SOCIAL
+gold_0306,journal_306,Avoided spiritual time all day.,spiritual time,SPIRITUAL
+gold_0282,journal_282,Spent 3 hours dispute.,dispute,SOCIAL
+gold_0158,journal_158,exploring at 8am.,exploring,LEISURE
+gold_0110,journal_110,yard work today.,yard work,HOBBIES
+gold_0018,journal_18,No studied with friends today. Too exhausted.,studied with friends,ACADEMICS
+gold_0348,journal_348,went for morning run,morning run,FITNESS
+gold_0025,journal_25,drafted post again. Need to stop this.,drafted post,CREATIVE
+gold_0176,journal_176,Woke up and panic around 8am.,panic,MENTAL_STATE
+gold_0352,journal_352,didn't study at all,study,ACADEMICS
+gold_0333,journal_333,Can't believe I counseling for the third time this week.,counseling,WELLNESS
+gold_0168,journal_168,revelation and it felt amazing.,revelation,MENTAL_STATE
+gold_0246,journal_246,Spent 3 hours learned.,learned,SELF_IMPROVEMENT
+gold_0312,journal_312,Finally cocktails after putting it off.,cocktails,SUBSTANCE
+gold_0146,journal_146,pet time like usual.,pet time,LEISURE
+gold_0259,journal_259,early morning all night. Regret it now.,early morning,SLEEP
+gold_0178,journal_178,Failed to can't be satisfied like I planned.,can't be satisfied,MENTAL_STATE
+gold_0120,journal_120,Spent an hour gardening work.,gardening work,HOBBIES
+gold_0195,journal_195,skipped eating at 3am.,skipped eating,NUTRITION
+gold_0230,journal_230,Woke up and coding session around midnight.,coding session,PROFESSIONAL
+gold_0266,journal_266,early riser at 11pm.,early riser,SLEEP
+gold_0219,journal_219,working like usual.,working,PROFESSIONAL
+gold_0308,journal_308,Did my regular vape.,vape,SUBSTANCE
+gold_0037,journal_37,prepared food today.,prepared food,DAILY_LIVING
+gold_0140,journal_140,Late night current events at 11pm.,current events,INFORMATION
+gold_0292,journal_292,Managed to religious gathering even though I was tired.,religious gathering,SPIRITUAL
+gold_0156,journal_156,reading for an hour.,reading,LEISURE
+gold_0197,journal_197,Missed my usual stuffed myself.,stuffed myself,NUTRITION
+gold_0285,journal_285,Woke up and heated argument around midnight.,heated argument,SOCIAL
+gold_0060,journal_60,twitter scrolling today. Felt really good!,twitter scrolling,DIGITAL
+gold_0112,journal_112,made something and it felt amazing.,made something,HOBBIES
+gold_0166,journal_166,at peace today. Felt really good!,at peace,MENTAL_STATE
+gold_0364,journal_364,slept through my alarm,slept through,SLEEP
+gold_0007,journal_7,Can't believe I study time for the third time this week.,study time,ACADEMICS
+gold_0334,journal_334,Spent 45 minutes personal writing.,personal writing,WELLNESS
+gold_0276,journal_276,hermit mode in the morning. Great start.,hermit mode,SOCIAL
+gold_0151,journal_151,Wasted time reading novel. So unproductive.,reading novel,LEISURE
+gold_0011,journal_11,study session with classmates for 30 minutes.,study session with classmates,ACADEMICS
+gold_0193,journal_193,healthy lunch at midnight.,healthy lunch,NUTRITION
+gold_0104,journal_104,nature walk at midnight.,nature walk,FITNESS
+gold_0082,journal_82,cinema visit for 45 minutes.,cinema visit,ENTERTAINMENT
+gold_0317,journal_317,vodka for 3 hours.,vodka,SUBSTANCE
+gold_0399,journal_399,work stuff,work,PROFESSIONAL
+gold_0376,journal_376,excessive coffee drinking,coffee,NUTRITION
+gold_0209,journal_209,multiple things at once for 45 minutes.,multiple things at once,PRODUCTIVITY
+gold_0287,journal_287,Missed my usual got complimented.,got complimented,SOCIAL
+gold_0169,journal_169,Can't believe I good mood for the third time this week.,good mood,MENTAL_STATE
+gold_0354,journal_354,avoided work all day,avoided work,PROFESSIONAL
+gold_0090,journal_90,Couldn't bring myself to cinema visit.,cinema visit,ENTERTAINMENT
+gold_0378,journal_378,gym time,gym,FITNESS
+gold_0164,journal_164,upset like usual.,upset,MENTAL_STATE
+gold_0148,journal_148,Finally listened to podcast after putting it off.,listened to podcast,LEISURE
+gold_0229,journal_229,Woke up and extra hours around 11pm.,extra hours,PROFESSIONAL
+gold_0093,journal_93,stretching routine today.,stretching routine,FITNESS
+gold_0070,journal_70,Missed my usual staring at screen.,staring at screen,DIGITAL
+gold_0124,journal_124,Couldn't bring myself to instrument practice.,instrument practice,HOBBIES
+gold_0097,journal_97,asanas again. Need to stop this.,asanas,FITNESS
+gold_0144,journal_144,Failed to headlines like I planned.,headlines,INFORMATION
+gold_0327,journal_327,Spent some time wrote in journal.,wrote in journal,WELLNESS
+gold_0098,journal_98,nature walk when I should have been working.,nature walk,FITNESS
+gold_0239,journal_239,goal setting in the morning. Great start.,goal setting,SELF_IMPROVEMENT
+gold_0069,journal_69,messaging at 3am.,messaging,DIGITAL
+gold_0024,journal_24,Actually creative writing like I planned.,creative writing,CREATIVE
+gold_0038,journal_38,decluttered like usual.,decluttered,DAILY_LIVING
+gold_0145,journal_145,Spent some time on vacation.,on vacation,LEISURE
+gold_0123,journal_123,camera work at 2am.,camera work,HOBBIES
+gold_0183,journal_183,fresh food for about an hour.,fresh food,NUTRITION
+gold_0068,journal_68,Woke up and scrolled instagram around midnight.,scrolled instagram,DIGITAL
+gold_0199,journal_199,organized tasks for about an hour.,organized tasks,PRODUCTIVITY
+gold_0325,journal_325,Spent some time me time.,me time,WELLNESS
+gold_0220,journal_220,Finally business meeting after putting it off.,business meeting,PROFESSIONAL
+gold_0318,journal_318,tipsy for an hour.,tipsy,SUBSTANCE
+gold_0196,journal_196,Skipped homemade food again.,homemade food,NUTRITION
+gold_0126,journal_126,No photography time today. Too exhausted.,photography time,HOBBIES
+gold_0147,journal_147,travel time for about an hour.,travel time,LEISURE
+gold_0372,journal_372,didn't study at all,study,ACADEMICS
+gold_0087,journal_87,video games at 11pm.,video games,ENTERTAINMENT
+gold_0337,journal_337,Late night lots of water at 2am.,lots of water,WELLNESS
+gold_0341,journal_341,Failed to lots of water like I planned.,lots of water,WELLNESS
+gold_0338,journal_338,Late night lots of water at 11pm.,lots of water,WELLNESS
+gold_0355,journal_355,late night gaming session,gaming,ENTERTAINMENT
+gold_0335,journal_335,an hour of relaxation today.,relaxation,WELLNESS
+gold_0303,journal_303,Late night mosque at 11pm.,mosque,SPIRITUAL
+gold_0184,journal_184,missed lunch and it felt amazing.,missed lunch,NUTRITION
+gold_0204,journal_204,juggling tasks today. Felt really good!,juggling tasks,PRODUCTIVITY
+gold_0284,journal_284,Late night no social contact at 2am.,no social contact,SOCIAL
+gold_0212,journal_212,Late night switching between tasks at 3am.,switching between tasks,PRODUCTIVITY
+gold_0283,journal_283,Woke up and family chat around 8am.,family chat,SOCIAL
+gold_0130,journal_130,Actually reading news like I planned.,reading news,INFORMATION
+gold_0039,journal_39,Did my regular made breakfast.,made breakfast,DAILY_LIVING
+gold_0012,journal_12,Spent 2 hours studied all night.,studied all night,ACADEMICS
+gold_0326,journal_326,journal time today.,journal time,WELLNESS
+gold_0186,journal_186,Finally nighttime eating after putting it off.,nighttime eating,NUTRITION
+gold_0223,journal_223,Can't believe I at work for the third time this week.,at work,PROFESSIONAL
+gold_0113,journal_113,Finally instrument practice after putting it off.,instrument practice,HOBBIES
+gold_0180,journal_180,Didn't fell short today. Feel bad about it.,fell short,MENTAL_STATE
+gold_0328,journal_328,practiced gratitude today. Felt really good!,practiced gratitude,WELLNESS
+gold_0300,journal_300,2 hours of devotion today.,devotion,SPIRITUAL
+gold_0118,journal_118,played instrument for an hour.,played instrument,HOBBIES
+gold_0369,journal_369,did yoga practice,yoga practice,FITNESS
+gold_0278,journal_278,requested help all night. Regret it now.,requested help,SOCIAL
+gold_0385,journal_385,kept procrastinating on assignment,procrastinating,PRODUCTIVITY
+gold_0288,journal_288,Avoided spoke with family all day.,spoke with family,SOCIAL
+gold_0363,journal_363,feeling really anxious lately,anxious,MENTAL_STATE
+gold_0165,journal_165,Spent some time don't deserve.,don't deserve,MENTAL_STATE
+gold_0254,journal_254,awake all night like usual.,awake all night,SLEEP
+gold_0137,journal_137,2 hours of newspaper today.,newspaper,INFORMATION
+gold_0155,journal_155,30 minutes of music session today.,music session,LEISURE
+gold_0200,journal_200,task switching today.,task switching,PRODUCTIVITY
+gold_0198,journal_198,Couldn't bring myself to night munchies.,night munchies,NUTRITION
+gold_0393,journal_393,skipped breakfast again,skipped breakfast,NUTRITION
+gold_0003,journal_3,lecture hall for about an hour.,lecture hall,ACADEMICS
+gold_0205,journal_205,concentrated again. Need to stop this.,concentrated,PRODUCTIVITY
+gold_0116,journal_116,piano session when I should have been working.,piano session,HOBBIES
+gold_0235,journal_235,Spent some time training.,training,SELF_IMPROVEMENT
+gold_0238,journal_238,Finally made resolution after putting it off.,made resolution,SELF_IMPROVEMENT
+gold_0027,journal_27,creative writing again. Need to stop this.,creative writing,CREATIVE
+gold_0121,journal_121,art time at 8am.,art time,HOBBIES
+gold_0358,journal_358,gym time,gym,FITNESS
+gold_0225,journal_225,own project all night. Regret it now.,own project,PROFESSIONAL
+gold_0361,journal_361,pulled all-nighter,all-nighter,SLEEP
+gold_0379,journal_379,work stuff,work,PROFESSIONAL
+gold_0351,journal_351,called my parents,called my parents,SOCIAL
+gold_0380,journal_380,sleep schedule,sleep,SLEEP
+gold_0128,journal_128,current events for about an hour.,current events,INFORMATION
+gold_0075,journal_75,Spent some time watched series.,watched series,ENTERTAINMENT
+gold_0323,journal_323,Missed my usual smoke break.,smoke break,SUBSTANCE
+gold_0030,journal_30,creative writing for an hour.,creative writing,CREATIVE
+gold_0084,journal_84,an hour of live event today.,live event,ENTERTAINMENT
+gold_0390,journal_390,worked on side project,side project,PROFESSIONAL
+gold_0108,journal_108,Avoided swim session all day.,swim session,FITNESS
+gold_0250,journal_250,Failed to made resolution like I planned.,made resolution,SELF_IMPROVEMENT
+gold_0297,journal_297,religious practice when I should have been working.,religious practice,SPIRITUAL
+gold_0134,journal_134,read news all night. Regret it now.,read news,INFORMATION
+gold_0245,journal_245,Spent 2 hours targets.,targets,SELF_IMPROVEMENT
+gold_0185,journal_185,ate too much today. Felt really good!,ate too much,NUTRITION
+gold_0291,journal_291,Spent some time went to church.,went to church,SPIRITUAL
+gold_0045,journal_45,meal prep when I should have been working.,meal prep,DAILY_LIVING
+gold_0368,journal_368,went for morning run,morning run,FITNESS
+gold_0066,journal_66,Spent 3 hours chat.,chat,DIGITAL
+gold_0086,journal_86,show binge at midnight.,show binge,ENTERTAINMENT
+gold_0243,journal_243,Wasted time online course. So unproductive.,online course,SELF_IMPROVEMENT
+gold_0187,journal_187,third cup again. Need to stop this.,third cup,NUTRITION
+gold_0160,journal_160,Couldn't bring myself to road trip.,road trip,LEISURE
+gold_0013,journal_13,Late night took exam at 8am.,took exam,ACADEMICS
+gold_0036,journal_36,Avoided content writing all day.,content writing,CREATIVE
+gold_0029,journal_29,Spent 3 hours blog post.,blog post,CREATIVE
+gold_0171,journal_171,Can't believe I low energy for the third time this week.,low energy,MENTAL_STATE
+gold_0143,journal_143,Missed my usual reading news.,reading news,INFORMATION
+gold_0319,journal_319,smoke break at 2am.,smoke break,SUBSTANCE
+gold_0273,journal_273,Did my regular someone praised me.,someone praised me,SOCIAL
+gold_0222,journal_222,long work day and it felt amazing.,long work day,PROFESSIONAL
+gold_0096,journal_96,took a walk in the morning. Great start.,took a walk,FITNESS
+gold_0052,journal_52,No shopping spree today. Too exhausted.,shopping spree,DAILY_LIVING
+gold_0241,journal_241,online learning again. Need to stop this.,online learning,SELF_IMPROVEMENT
+gold_0299,journal_299,Spent 30 minutes prayer time.,prayer time,SPIRITUAL
+gold_0305,journal_305,Avoided church service all day.,church service,SPIRITUAL
+gold_0179,journal_179,Avoided envious all day.,envious,MENTAL_STATE
+gold_0042,journal_42,prepared food in the morning. Great start.,prepared food,DAILY_LIVING
+gold_0311,journal_311,Actually smoking break like I planned.,smoking break,SUBSTANCE
+gold_0207,journal_207,focused work all night. Regret it now.,focused work,PRODUCTIVITY
+gold_0255,journal_255,staring at ceiling today.,staring at ceiling,SLEEP
+gold_0332,journal_332,Another day of timeout. Getting worried.,timeout,WELLNESS
+gold_0005,journal_5,studied today. Felt really good!,studied,ACADEMICS
+gold_0257,journal_257,poor sleep in the morning. Great start.,poor sleep,SLEEP
+gold_0359,journal_359,work stuff,work,PROFESSIONAL
+gold_0101,journal_101,bike ride for 2 hours.,bike ride,FITNESS
+gold_0227,journal_227,worked on project for 2 hours.,worked on project,PROFESSIONAL
+gold_0342,journal_342,Skipped break time again.,break time,WELLNESS
+gold_0214,journal_214,Missed my usual multiple things at once.,multiple things at once,PRODUCTIVITY
+gold_0172,journal_172,Spent 2 hours happy.,happy,MENTAL_STATE
+gold_0099,journal_99,yoga routine all night. Regret it now.,yoga routine,FITNESS
+gold_0216,journal_216,Skipped sorted things again.,sorted things,PRODUCTIVITY
+gold_0062,journal_62,video chat all night. Regret it now.,video chat,DIGITAL
+gold_0048,journal_48,3 hours of made dinner today.,made dinner,DAILY_LIVING
+gold_0033,journal_33,writing session at 2am.,writing session,CREATIVE
+gold_0268,journal_268,Didn't 5am wake today. Feel bad about it.,5am wake,SLEEP
+gold_0201,journal_201,planned day today.,planned day,PRODUCTIVITY
+gold_0357,journal_357,mindless scrolling,scrolling,DIGITAL
+gold_0028,journal_28,2 hours of essay writing today.,essay writing,CREATIVE
+gold_0313,journal_313,smoked when I should have been working.,smoked,SUBSTANCE
+gold_0231,journal_231,Woke up and coding session around midnight.,coding session,PROFESSIONAL
+gold_0261,journal_261,Another day of midday nap. Getting worried.,midday nap,SLEEP
+gold_0289,journal_289,Did my regular temple visit.,temple visit,SPIRITUAL
+gold_0163,journal_163,comparison like usual.,comparison,MENTAL_STATE
+gold_0371,journal_371,called my parents,called my parents,SOCIAL
+gold_0139,journal_139,Woke up and browsed headlines around midnight.,browsed headlines,INFORMATION
+gold_0063,journal_63,device time all night. Regret it now.,device time,DIGITAL
+gold_0136,journal_136,2 hours of reading news today.,reading news,INFORMATION
+gold_0129,journal_129,read news today.,read news,INFORMATION
+gold_0009,journal_9,Can't believe I took exam for the third time this week.,took exam,ACADEMICS
+gold_0065,journal_65,phone all day for 3 hours.,phone all day,DIGITAL
+gold_0301,journal_301,Woke up and temple around 8am.,temple,SPIRITUAL
+gold_0015,journal_15,Late night test time at 6am.,test time,ACADEMICS
+gold_0157,journal_157,Woke up and animal time around 2am.,animal time,LEISURE
+gold_0041,journal_41,Finally vacuumed after putting it off.,vacuumed,DAILY_LIVING
+gold_0367,journal_367,couldn't sleep at all,sleep,SLEEP
+gold_0324,journal_324,Skipped smoked weed again.,smoked weed,SUBSTANCE
+gold_0217,journal_217,Spent some time late at work.,late at work,PROFESSIONAL
+gold_0280,journal_280,volunteered for 3 hours.,volunteered,SOCIAL
+gold_0347,journal_347,couldn't sleep at all,sleep,SLEEP
+gold_0237,journal_237,resolutions for about an hour.,resolutions,SELF_IMPROVEMENT
+gold_0208,journal_208,3 hours of didn't do anything productive today.,didn't do anything productive,PRODUCTIVITY
+gold_0213,journal_213,Late night lost focus at 11pm.,lost focus,PRODUCTIVITY
+gold_0296,journal_296,temple visit again. Need to stop this.,temple visit,SPIRITUAL
+gold_0365,journal_365,kept procrastinating on assignment,procrastinating,PRODUCTIVITY
+gold_0252,journal_252,No training today. Too exhausted.,training,SELF_IMPROVEMENT
+gold_0391,journal_391,called my parents,called my parents,SOCIAL
+gold_0366,journal_366,ate junk food again,ate junk food,NUTRITION
+gold_0304,journal_304,Avoided prayer time all day.,prayer time,SPIRITUAL
+gold_0270,journal_270,Avoided staring at ceiling all day.,staring at ceiling,SLEEP
+gold_0202,journal_202,deep work in the morning. Great start.,deep work,PRODUCTIVITY
+gold_0162,journal_162,Wanted to on vacation but couldn't find time.,on vacation,LEISURE
+gold_0044,journal_44,bought stuff all night. Regret it now.,bought stuff,DAILY_LIVING
+gold_0218,journal_218,passion project like usual.,passion project,PROFESSIONAL
+gold_0191,journal_191,coffee break for 3 hours.,coffee break,NUTRITION
+gold_0310,journal_310,Managed to did drugs even though I was tired.,did drugs,SUBSTANCE
+gold_0260,journal_260,couldn't sleep again. Need to stop this.,couldn't sleep,SLEEP
+gold_0106,journal_106,No went to gym today. Too exhausted.,went to gym,FITNESS
+gold_0054,journal_54,Failed to cooking session like I planned.,cooking session,DAILY_LIVING
+gold_0002,journal_2,Spent some time peer learning.,peer learning,ACADEMICS
+gold_0050,journal_50,commuting at 6am.,commuting,DAILY_LIVING
+gold_0081,journal_81,Can't believe I event for the third time this week.,event,ENTERTAINMENT
+gold_0206,journal_206,Another day of multiple things at once. Getting worried.,multiple things at once,PRODUCTIVITY
+gold_0035,journal_35,No writing time today. Too exhausted.,writing time,CREATIVE
+gold_0264,journal_264,bad sleep for an hour.,bad sleep,SLEEP
+gold_0092,journal_92,hatha yoga like usual.,hatha yoga,FITNESS
+gold_0340,journal_340,Avoided feeling grateful all day.,feeling grateful,WELLNESS
+gold_0053,journal_53,Missed my usual cleaning.,cleaning,DAILY_LIVING
+gold_0346,journal_346,ate junk food again,ate junk food,NUTRITION
+gold_0265,journal_265,Late night missed morning at midnight.,missed morning,SLEEP
+gold_0242,journal_242,training when I should have been working.,training,SELF_IMPROVEMENT
+gold_0014,journal_14,attended session at 11pm.,attended session,ACADEMICS
+gold_0316,journal_316,Spent 30 minutes marijuana.,marijuana,SUBSTANCE
+gold_0089,journal_89,Couldn't bring myself to tv marathon.,tv marathon,ENTERTAINMENT
+gold_0274,journal_274,called someone and it felt amazing.,called someone,SOCIAL
+gold_0167,journal_167,deadline approaching in the morning. Great start.,deadline approaching,MENTAL_STATE
+gold_0329,journal_329,reflected in the morning. Great start.,reflected,WELLNESS
+gold_0394,journal_394,avoided work all day,avoided work,PROFESSIONAL
+gold_0135,journal_135,Wasted time reading news. So unproductive.,reading news,INFORMATION
+gold_0307,journal_307,Spent some time high.,high,SUBSTANCE
+gold_0384,journal_384,slept through my alarm,slept through,SLEEP
+gold_0320,journal_320,Woke up and chain smoking around 11pm.,chain smoking,SUBSTANCE
+gold_0244,journal_244,2 hours of learned today.,learned,SELF_IMPROVEMENT
+gold_0055,journal_55,twitter scrolling today.,twitter scrolling,DIGITAL
+gold_0051,journal_51,Late night train journey at midnight.,train journey,DAILY_LIVING
+gold_0175,journal_175,Woke up and worry around 8am.,worry,MENTAL_STATE
+gold_0190,journal_190,Spent 2 hours delivery food.,delivery food,NUTRITION
+gold_0398,journal_398,gym time,gym,FITNESS
+gold_0188,journal_188,instant noodles when I should have been working.,instant noodles,NUTRITION
+gold_0170,journal_170,Another day of feeling angry. Getting worried.,feeling angry,MENTAL_STATE
+gold_0059,journal_59,youtube shorts today. Felt really good!,youtube shorts,DIGITAL
+gold_0049,journal_49,home cooking at 3am.,home cooking,DAILY_LIVING
+gold_0345,journal_345,kept procrastinating on assignment,procrastinating,PRODUCTIVITY
+gold_0236,journal_236,Did my regular tutorial.,tutorial,SELF_IMPROVEMENT
+gold_0253,journal_253,midday nap like usual.,midday nap,SLEEP
+gold_0022,journal_22,Actually content writing like I planned.,content writing,CREATIVE
+gold_0314,journal_314,Another day of high. Getting worried.,high,SUBSTANCE
+gold_0161,journal_161,No outside today. Too exhausted.,outside,LEISURE
+gold_0277,journal_277,Can't believe I hung out for the third time this week.,hung out,SOCIAL
+gold_0192,journal_192,didn't eat for 2 hours.,didn't eat,NUTRITION
+gold_0294,journal_294,Finally place of worship after putting it off.,place of worship,SPIRITUAL
+gold_0344,journal_344,slept through my alarm,slept through,SLEEP
+gold_0258,journal_258,Finally restless sleep after putting it off.,restless sleep,SLEEP
+gold_0309,journal_309,tobacco for about an hour.,tobacco,SUBSTANCE
+gold_0150,journal_150,music session today. Felt really good!,music session,LEISURE
+gold_0131,journal_131,news and it felt amazing.,news,INFORMATION
+gold_0152,journal_152,Wasted time trip. So unproductive.,trip,LEISURE
+gold_0360,journal_360,sleep schedule,sleep,SLEEP
+gold_0100,journal_100,riding bike for 45 minutes.,riding bike,FITNESS
+gold_0373,journal_373,skipped breakfast again,skipped breakfast,NUTRITION
+gold_0088,journal_88,Didn't ps5 today. Feel bad about it.,ps5,ENTERTAINMENT
+gold_0331,journal_331,mental health appointment all night. Regret it now.,mental health appointment,WELLNESS
+gold_0215,journal_215,Avoided can't focus all day.,can't focus,PRODUCTIVITY
+gold_0122,journal_122,Woke up and played instrument around 6am.,played instrument,HOBBIES
+gold_0400,journal_400,sleep schedule,sleep,SLEEP
+gold_0021,journal_21,creative writing today.,creative writing,CREATIVE
+gold_0189,journal_189,homemade food when I should have been working.,homemade food,NUTRITION
+gold_0072,journal_72,Failed to dm like I planned.,dm,DIGITAL
+gold_0107,journal_107,Didn't cycled today. Feel bad about it.,cycled,FITNESS
+gold_0271,journal_271,Did my regular called someone.,called someone,SOCIAL
+gold_0349,journal_349,did yoga practice,yoga practice,FITNESS
+gold_0103,journal_103,Woke up and yoga practice around 11pm.,yoga practice,FITNESS

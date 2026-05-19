@@ -1,0 +1,74 @@
+{
+  "input_file": "data/processed/journals.parquet",
+  "total_entries": 151614,
+  "entries_with_spans": 67,
+  "total_spans": 75,
+  "avg_spans_per_entry": 0.00049467727254739,
+  "avg_confidence": 0.9220000000000003,
+  "method_distribution": {
+    "spacy_phrase_match": 60,
+    "regex_seed_alias": 6,
+    "spacy_adj_noun": 5,
+    "spacy_verb_noun": 2,
+    "spacy_neg_verb": 1,
+    "spacy_feel_state": 1
+  },
+  "confidence_stats": {
+    "min": 0.65,
+    "max": 0.95,
+    "mean": 0.9220000000000003,
+    "median": 0.95
+  },
+  "sample_spans": [
+    {
+      "span": "meeting",
+      "method": "spacy_phrase_match",
+      "confidence": 0.95
+    },
+    {
+      "span": "lonely",
+      "method": "spacy_phrase_match",
+      "confidence": 0.95
+    },
+    {
+      "span": "upset",
+      "method": "spacy_phrase_match",
+      "confidence": 0.95
+    },
+    {
+      "span": "mad",
+      "method": "spacy_phrase_match",
+      "confidence": 0.95
+    },
+    {
+      "span": "happy",
+      "method": "spacy_phrase_match",
+      "confidence": 0.95
+    },
+    {
+      "span": "down",
+      "method": "spacy_phrase_match",
+      "confidence": 0.95
+    },
+    {
+      "span": "angry",
+      "method": "spacy_phrase_match",
+      "confidence": 0.95
+    },
+    {
+      "span": "lonely",
+      "method": "spacy_phrase_match",
+      "confidence": 0.95
+    },
+    {
+      "span": "reflect",
+      "method": "spacy_phrase_match",
+      "confidence": 0.95
+    },
+    {
+      "span": "happy",
+      "method": "spacy_phrase_match",
+      "confidence": 0.95
+    }
+  ]
+}

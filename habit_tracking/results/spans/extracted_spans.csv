@@ -1,0 +1,76 @@
+span_id,journal_id,span,start_idx,end_idx,method,confidence,context
+s_000000,j_000035,meeting,0,7,spacy_phrase_match,0.95,meeting former students who have thrived in their lives fills me with a profound sense
+s_000001,j_000076,lonely,7,13,spacy_phrase_match,0.95,i feel lonely few days before my birthday
+s_000002,j_000092,upset,13,18,spacy_phrase_match,0.95,feel fearful upset situation life notice reminder sit right begin repeat affirmation
+s_000003,j_000393,mad,18,21,spacy_phrase_match,0.95,Agreed rarely get mad at ones like hun or darl Being called boy by an old man however is infuriating
+s_000004,j_000414,happy,21,26,spacy_phrase_match,0.95,The rams seem pretty happy with NAME
+s_000005,j_000341,down,26,30,spacy_phrase_match,0.95,Works great until you sit down and burst the banana open.
+s_000006,j_000613,angry,30,35,spacy_phrase_match,0.95,Try to be rational instead of angry.
+s_000007,j_000911,lonely,35,41,spacy_phrase_match,0.95,i am not strong that i feel scared lonely lost and confused
+s_000008,j_000301,reflect,41,48,spacy_phrase_match,0.95,i feel virtuous for a few seconds when i reflect that i did spend something when i went to the swimming pool working towards per
+s_000009,j_000583,happy,48,53,spacy_phrase_match,0.95,It really is I loved everything about it I m so happy my friend told me about the franchise
+s_000010,j_000291,Therapy,53,60,spacy_phrase_match,0.95,Holy fuck youre pathetic. I hope you have insurance. Therapy is expensive I hear
+s_000011,j_000198,work,60,64,spacy_phrase_match,0.95,when i see that my mother forces my little brother years to work very hard for school i dont agree that she constantly puts him to work but i do
+s_000012,j_000285,performance,64,75,spacy_phrase_match,0.95,a guy named NAME had a nightmare of NAME getting shot at a live performance
+s_000013,j_000042,worried,75,82,spacy_phrase_match,0.95,Not at all It s great of course for financial reasons but it then makes me worried about how much time she ll have for a relationship
+s_000014,j_001203,happy,82,87,spacy_phrase_match,0.95,y your recovery be swift and your memory of her abuse soon be distant. Safe and happy travels.
+s_000015,j_001121,unsuccessful,87,99,spacy_phrase_match,0.95,to write it off as normal and ignored all feelings throwing myself into a very unsuccessful relationship with a boy when i was about
+s_000016,j_000460,songs,99,104,spacy_phrase_match,0.95,s are really starting to get it and i am loving hearing them sing the christmas songs about jesus
+s_000017,j_001110,angry,104,109,spacy_phrase_match,0.95,d this within the sub it s in Bunch of knuckle dragging storm troopers WOULD be angry to see people liberate themselves XD
+s_000018,j_000169,argument,109,117,spacy_phrase_match,0.95,at NAME is a rapist based on the testimony of 1 person I merely stated the same argument based on your logic
+s_000019,j_000707,overwhelmed,117,128,spacy_phrase_match,0.95,upon plan to go to the cinema i arrived at my girlfriends place two hours later overwhelmed by a sense of regret and remorse for my oversight
+s_000020,j_001272,happy,128,133,spacy_phrase_match,0.95,with my lovely girlfriend later after meeting at ours for coffee and cake Very happy
+s_000021,j_003943,down,133,137,spacy_phrase_match,0.95,essured means he obviously lacks the courage of his convictions and should step down
+s_000022,j_007665,stress,137,143,spacy_phrase_match,0.95,and income devoted to various craft hobbies but eventually i realised that i am stress busting and its cheaper than therapy
+s_000023,j_005671,broke,143,148,spacy_phrase_match,0.95,t the thought that my stroller had made someone feel how ive felt so many times broke my heart
+s_000024,j_013828,film,148,152,spacy_phrase_match,0.95,avid sitting here in my garden feeling slightly smug after just discovering his film had been shortlisted for best film out of entries
+s_000025,j_009146,tired,152,157,spacy_phrase_match,0.95,r people my friends did not arrive and the people who were with me began to get tired my friends were one hour late
+s_000026,j_004946,happy,157,162,spacy_phrase_match,0.95,time letting people in past a certain level so it just is easier to default to happy go lucky which i usually am anyway
+s_000027,j_003116,laundry,162,169,spacy_phrase_match,0.95,rner and this feeling is the only thing that keeps me from being irate that our laundry room is oddly devoid of coin changer machines
+s_000028,j_005868,overwhelmed,169,180,spacy_phrase_match,0.95,ing happened on his mission just how like sometimes you feel like you get super overwhelmed by all the stuff you have to do and its just so easy to be really hard on yours
+s_000029,j_018502,job,180,183,spacy_phrase_match,0.95,nty loomed over me as i grappled with the dilemma of choosing between a mundane job or finding a way to finance my unsubsidized education for another year
+s_000030,j_002256,angry,183,188,spacy_phrase_match,0.95,ed the stairs with much noise when i was studying i couldnt concentrate and got angry
+s_000031,j_002660,running,188,195,spacy_phrase_match,0.95,control and completely unacceptable that instead of looking like a crazy person running around cursing and screaming i throw a tantrum in my mind
+s_000032,j_018536,down,195,199,spacy_phrase_match,0.95,ollows of my cheeks up into my temples and when im feeling brave maybe a little down my nose and on my chin
+s_000033,j_014033,party,199,204,spacy_phrase_match,0.95,grabbing at my waist while he attempted to murmur sweet nothings in my ear at a party that same week
+s_000034,j_003822,journey,204,211,spacy_phrase_match,0.95,such tasks the address provided turned out to be incorrect rendering the entire journey futile and amplifying a sense of frustration
+s_000035,j_018542,grateful for,211,223,regex_seed_alias,0.95,instead refocus my thoughts and remember some of the many things we have to be grateful for right now
+s_000036,j_002054,quiet time,223,233,regex_seed_alias,0.95,self this book just brings a refined feel when i sit back in the chair for some quiet time
+s_000037,j_003495,trip,233,237,spacy_phrase_match,0.95,hat i know what to do and if i can look at it positively it means just one more trip to retry
+s_000038,j_064637,tired,237,242,spacy_phrase_match,0.95,carson actually accomplished into his sweet potatoes no less poor guy was sooo tired
+s_000039,j_002207,overwhelmed,242,253,spacy_phrase_match,0.95,r stopped and engaged in a heated discussion with my mother and aunt leaving me overwhelmed with a sense of remorse
+s_000040,j_006613,journey,253,260,spacy_phrase_match,0.95,rove my capabilities without relying on any preparatory courses i embarked on a journey to excel independently defying the odds
+s_000041,j_088044,alone,260,265,spacy_phrase_match,0.95,them as much as i do and not have to worry that i am failing simply in that act alone
+s_000042,j_035851,alcohol,265,272,spacy_phrase_match,0.95,a few minutes they ultimately arrived three hours later clearly having consumed alcohol
+s_000043,j_046768,down,272,276,spacy_phrase_match,0.95,onometry another tutor and tutee were working on at the library calmed me right down
+s_000044,j_077432,show,276,280,spacy_phrase_match,0.95,made me trust cause ive never felt like this before im naked around you does it show
+s_000045,j_043154,show,280,284,spacy_phrase_match,0.95,made me trust cause ive never felt like this before im naked around you does it show
+s_000046,j_017944,party,284,289,spacy_phrase_match,0.95,rudolph valentino performing unspeakable acts back and forth and it felt like a party
+s_000047,j_122160,alone,289,294,spacy_phrase_match,0.95,"r meals, just snacks. Argued with roommate about cleaning. Feeling stressed and alone. Tried to study at night but gave up after 10 minutes."
+s_000048,j_092377,thought about,294,307,regex_seed_alias,0.95,e is all about this was one of few question which crept up vividly every time i thought about what had happened
+s_000049,j_122168,development,307,318,spacy_phrase_match,0.95,hing for others. Came back and researched new online courses. Want to learn web development. Practiced piano for 45 minutes. Musical skills improving slowly.
+s_000050,j_082746,down,319,323,spacy_phrase_match,0.95,before we could react it vanished leaving an eerie impression that sent shivers down our spines
+s_000051,j_052886,calm,323,327,spacy_phrase_match,0.95,felt guilty too as i had been bad to my grandmother of late i had not remained calm when she no longer understood everything so well
+s_000052,j_010782,got drunk,327,336,regex_seed_alias,0.95,t not guilt repression etc i mixed drinking with smoking which i rarely did and got drunk and had to leave the table to get sick in the loo and later went home and was s
+s_000053,j_122161,evening walk,338,350,regex_seed_alias,0.95,acticed gratitude journaling. Listed three things I'm thankful for. Went for an evening walk. Early to bed at 9:30pm.
+s_000054,j_151593,walk,350,354,spacy_phrase_match,0.95,"ve the skills and understanding to tackle any challenge that comes my way. I'll walk into the exam room with confidence, ready to showcase my abilities."
+s_000055,j_112627,work,354,358,spacy_phrase_match,0.95,ntil am however i had to depart at that hour as my parents required the car for work in the morning it is worth mentioning that my parents harbor a strong dislike t
+s_000056,j_151612,down,358,362,spacy_phrase_match,0.95,"ere doesn't seem to be a specific event causing it, but I've been feeling quite down."
+s_000057,j_023384,overwhelmed,364,375,spacy_phrase_match,0.95,eventually my mother inadvertently exposed the truth in his presence leaving me overwhelmed with a profound sense of remorse
+s_000058,j_122164,content,377,384,spacy_phrase_match,0.95,"ook photos at sunset, photography session. Peaceful and productive day. Feeling content and grateful."
+s_000059,j_018671,worried,390,397,spacy_phrase_match,0.95,een searching for me desperatly she did not scold me but i saw how much she had worried herself
+s_000060,j_151597,journey,397,404,spacy_phrase_match,0.95,n my goals and reminding myself of the rewards that await me at the end of this journey.
+s_000061,j_035781,disappointed,406,418,spacy_phrase_match,0.95,ge was neatly packed and not obstructing their way the incident left me utterly disappointed and disenchanted
+s_000062,j_024335,not say,422,429,spacy_neg_verb,0.8,e key it broke we had no second key my mother was blamed for all that and i did not say a word
+s_000063,j_005455,reached out,430,441,regex_seed_alias,0.95,ey neither arrived nor communicated their absence and to this day they have not reached out leaving me with a lingering sense of frustration
+s_000064,j_151613,Work,444,448,spacy_phrase_match,0.95,"relaxation time. Overall, my mood has been balanced, with normal ups and downs. Work stress and family time both have significant impacts."
+s_000065,j_151613,stress,449,455,spacy_phrase_match,0.95,"ation time. Overall, my mood has been balanced, with normal ups and downs. Work stress and family time both have significant impacts."
+s_000066,j_005455,lingering sense,460,475,spacy_verb_noun,0.75,cated their absence and to this day they have not reached out leaving me with a lingering sense of frustration
+s_000067,j_151613,significant impacts,482,501,spacy_adj_noun,0.65,"been balanced, with normal ups and downs. Work stress and family time both have significant impacts."
+s_000068,j_039500,blue,519,523,spacy_phrase_match,0.95,have an island paradise-themed wedding and our theme color would be a soothing blue like Aquamarine . And there will be a huge seashell on the wall behind the podi
+s_000069,j_151590,quiet place,549,560,spacy_adj_noun,0.65,"ronment, free from distractions. Perhaps it's time to turn off my phone, find a quiet place, and implement some effective concentration techniques. It's crucial to regain"
+s_000070,j_039500,huge seashell,562,575,spacy_adj_noun,0.65,our theme color would be a soothing blue like Aquamarine . And there will be a huge seashell on the wall behind the podium where we ll make our toasts ! What do you think o
+s_000071,j_151590,effective concentration,581,604,spacy_adj_noun,0.65,"Perhaps it's time to turn off my phone, find a quiet place, and implement some effective concentration techniques. It's crucial to regain control over my attention and prioritize my"
+s_000072,j_151590,'s crucial,619,629,spacy_feel_state,0.9,"e, find a quiet place, and implement some effective concentration techniques. It's crucial to regain control over my attention and prioritize my exam preparation."
+s_000073,j_151590,regain control,633,647,spacy_verb_noun,0.75,"t place, and implement some effective concentration techniques. It's crucial to regain control over my attention and prioritize my exam preparation."
+s_000074,j_039500,small packages,657,671,spacy_adj_noun,0.65,"n the wall behind the podium where we ll make our toasts ! What do you think of small packages of drink mixes for our wedding favors ? Who else am I missing ? Oh , your uncle"

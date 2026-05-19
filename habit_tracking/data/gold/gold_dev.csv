@@ -1,0 +1,96 @@
+span_id,journal_id,text,span,gold_label,start_char,end_char,span_type,habit_id
+gold_0240,journal_240,online learning today. Felt really good!,online learning,SELF_IMPROVEMENT,0,15,positive,learn_skill
+gold_0078,journal_78,Managed to movie marathon even though I was tired.,movie marathon,ENTERTAINMENT,11,25,positive,binge_watch
+gold_0262,journal_262,Spent 30 minutes trouble sleeping.,trouble sleeping,SLEEP,17,33,duration,insomnia
+gold_0256,journal_256,Finally insomnia after putting it off.,insomnia,SLEEP,8,16,positive,insomnia
+gold_0010,journal_10,Spent an hour overnight study.,overnight study,ACADEMICS,14,29,duration,all_nighter_study
+gold_0095,journal_95,morning jog and it felt amazing.,morning jog,FITNESS,0,11,positive,running
+gold_0159,journal_159,Late night listening to songs at 11pm.,listening to songs,LEISURE,11,29,time,listen_music
+gold_0153,journal_153,fresh air all night. Regret it now.,fresh air,LEISURE,0,9,negative,nature
+gold_0043,journal_43,online shopping when I should have been working.,online shopping,DAILY_LIVING,0,15,negative,shopping
+gold_0343,journal_343,feeling really anxious lately,anxious,MENTAL_STATE,15,22,edge_case,anxiety
+gold_0298,journal_298,Spent 30 minutes praying.,praying,SPIRITUAL,17,24,duration,pray
+gold_0210,journal_210,multiple things at once for 3 hours.,multiple things at once,PRODUCTIVITY,0,23,duration,multitasking
+gold_0290,journal_290,Did my regular praying.,praying,SPIRITUAL,15,22,neutral,pray
+gold_0174,journal_174,Spent 45 minutes overloaded.,overloaded,MENTAL_STATE,17,27,duration,overwhelmed
+gold_0040,journal_40,shopping trip today. Felt really good!,shopping trip,DAILY_LIVING,0,13,positive,shopping
+gold_0006,journal_6,peer learning and it felt amazing.,peer learning,ACADEMICS,0,13,positive,group_study
+gold_0397,journal_397,mindless scrolling,scrolling,DIGITAL,9,18,edge_case,social_media
+gold_0102,journal_102,45 minutes of morning jog today.,morning jog,FITNESS,14,25,duration,running
+gold_0138,journal_138,Spent 2 hours reading news.,reading news,INFORMATION,14,26,duration,news
+gold_0251,journal_251,No training today. Too exhausted.,training,SELF_IMPROVEMENT,3,11,negation,learn_skill
+gold_0362,journal_362,doom scrolling,scrolling,DIGITAL,5,14,edge_case,social_media
+gold_0275,journal_275,Actually friends hangout like I planned.,friends hangout,SOCIAL,9,24,positive,socialize
+gold_0286,journal_286,No received call today. Too exhausted.,received call,SOCIAL,3,16,negation,phone_call
+gold_0115,journal_115,Can't believe I made something for the third time this week.,made something,HOBBIES,16,30,negative,creative_work
+gold_0125,journal_125,Avoided photography all day.,photography,HOBBIES,8,19,negation,photography
+gold_0047,journal_47,tidied up for an hour.,tidied up,DAILY_LIVING,0,9,duration,clean
+gold_0158,journal_158,exploring at 8am.,exploring,LEISURE,0,9,time,travel
+gold_0177,journal_177,Late night didn't make it at midnight.,didn't make it,MENTAL_STATE,11,25,time,failure
+gold_0117,journal_117,Another day of planting. Getting worried.,planting,HOBBIES,15,23,negative,garden
+gold_0249,journal_249,skill practice at 11pm.,skill practice,SELF_IMPROVEMENT,0,14,time,learn_skill
+gold_0032,journal_32,drafted post at 3am.,drafted post,CREATIVE,0,12,time,write
+gold_0339,journal_339,Woke up and saw therapist around 6am.,saw therapist,WELLNESS,12,25,time,therapy
+gold_0034,journal_34,No blogged today. Too exhausted.,blogged,CREATIVE,3,10,negation,write
+gold_0330,journal_330,Managed to reflecting even though I was tired.,reflecting,WELLNESS,11,21,positive,reflect
+gold_0267,journal_267,before 6am at 6am.,before 6am,SLEEP,0,10,time,wake_early
+gold_0127,journal_127,read news today.,read news,INFORMATION,0,9,neutral,news
+gold_0057,journal_57,endless scrolling today.,endless scrolling,DIGITAL,0,17,neutral,doom_scroll
+gold_0279,journal_279,Another day of helped someone. Getting worried.,helped someone,SOCIAL,15,29,negative,help_others
+gold_0109,journal_109,band practice for about an hour.,band practice,HOBBIES,0,13,neutral,music_practice
+gold_0023,journal_23,Managed to blogged even though I was tired.,blogged,CREATIVE,11,18,positive,write
+gold_0182,journal_182,Did my regular snacked at night.,snacked at night,NUTRITION,15,31,neutral,late_night_snack
+gold_0105,journal_105,Woke up and riding bike around 6am.,riding bike,FITNESS,12,23,time,cycling
+gold_0058,journal_58,Actually social media time like I planned.,social media time,DIGITAL,9,26,positive,social_media
+gold_0272,journal_272,volunteer activity like usual.,volunteer activity,SOCIAL,0,18,neutral,volunteer
+gold_0094,journal_94,gym time and it felt amazing.,gym time,FITNESS,0,8,positive,exercise
+gold_0248,journal_248,Late night skill building at midnight.,skill building,SELF_IMPROVEMENT,11,25,time,learn_skill
+gold_0046,journal_46,commuted for 2 hours.,commuted,DAILY_LIVING,0,8,duration,commute
+gold_0083,journal_83,youtube binge for 30 minutes.,youtube binge,ENTERTAINMENT,0,13,duration,binge_watch
+gold_0001,journal_1,went to lecture like usual.,went to lecture,ACADEMICS,0,15,neutral,attend_lecture
+gold_0377,journal_377,mindless scrolling,scrolling,DIGITAL,9,18,edge_case,social_media
+gold_0141,journal_141,Late night news at 2am.,news,INFORMATION,11,15,time,news
+gold_0031,journal_31,Woke up and essay writing around 11pm.,essay writing,CREATIVE,12,25,time,write
+gold_0322,journal_322,No smoke break today. Too exhausted.,smoke break,SUBSTANCE,3,14,negation,smoking
+gold_0026,journal_26,wrote when I should have been working.,wrote,CREATIVE,0,5,negative,write
+gold_0233,journal_233,Skipped stayed late at office again.,stayed late at office,PROFESSIONAL,8,29,negation,overtime
+gold_0133,journal_133,newspaper again. Need to stop this.,newspaper,INFORMATION,0,9,negative,news
+gold_0293,journal_293,Finally went to church after putting it off.,went to church,SPIRITUAL,8,22,positive,church_temple
+gold_0211,journal_211,Woke up and got distracted around 6am.,got distracted,PRODUCTIVITY,12,26,time,distraction
+gold_0334,journal_334,Spent 45 minutes personal writing.,personal writing,WELLNESS,17,33,duration,write_journal
+gold_0353,journal_353,skipped breakfast again,skipped breakfast,NUTRITION,0,17,edge_case,skip_meal
+gold_0154,journal_154,Spent 3 hours music time.,music time,LEISURE,14,24,duration,listen_music
+gold_0386,journal_386,ate junk food again,ate junk food,NUTRITION,0,13,edge_case,junk_food
+gold_0228,journal_228,an hour of work meeting today.,work meeting,PROFESSIONAL,11,23,duration,meeting
+gold_0383,journal_383,feeling really anxious lately,anxious,MENTAL_STATE,15,22,edge_case,anxiety
+gold_0247,journal_247,Woke up and took course around 8am.,took course,SELF_IMPROVEMENT,12,23,time,learn_skill
+gold_0226,journal_226,3 hours of business meeting today.,business meeting,PROFESSIONAL,11,27,duration,meeting
+gold_0333,journal_333,Can't believe I counseling for the third time this week.,counseling,WELLNESS,16,26,negative,therapy
+gold_0281,journal_281,Spent 2 hours appreciation.,appreciation,SOCIAL,14,26,duration,compliment_receive
+gold_0149,journal_149,Finally time with pet after putting it off.,time with pet,LEISURE,8,21,positive,pet_time
+gold_0209,journal_209,multiple things at once for 45 minutes.,multiple things at once,PRODUCTIVITY,0,23,duration,multitasking
+gold_0173,journal_173,Spent 30 minutes has to be perfect.,has to be perfect,MENTAL_STATE,17,34,duration,perfectionism
+gold_0312,journal_312,Finally cocktails after putting it off.,cocktails,SUBSTANCE,8,17,positive,alcohol
+gold_0203,journal_203,Managed to productive focus even though I was tired.,productive focus,PRODUCTIVITY,11,27,positive,deep_work
+gold_0114,journal_114,crafts in the morning. Great start.,crafts,HOBBIES,0,6,positive,creative_work
+gold_0308,journal_308,Did my regular vape.,vape,SUBSTANCE,15,19,neutral,smoking
+gold_0199,journal_199,organized tasks for about an hour.,organized tasks,PRODUCTIVITY,0,15,neutral,plan
+gold_0224,journal_224,Another day of professional work. Getting worried.,professional work,PROFESSIONAL,15,32,negative,work
+gold_0295,journal_295,Another day of church. Getting worried.,church,SPIRITUAL,15,21,negative,church_temple
+gold_0142,journal_142,Failed to newspaper like I planned.,newspaper,INFORMATION,10,19,negation,news
+gold_0389,journal_389,did yoga practice,yoga practice,FITNESS,4,17,edge_case,yoga
+gold_0016,journal_16,Didn't studied with friends today. Feel bad about it.,studied with friends,ACADEMICS,7,27,negation,group_study
+gold_0194,journal_194,skipped breakfast at 3am.,skipped breakfast,NUTRITION,0,17,time,skip_meal
+gold_0073,journal_73,episode after episode for about an hour.,episode after episode,ENTERTAINMENT,0,21,neutral,binge_watch
+gold_0392,journal_392,didn't study at all,study,ACADEMICS,7,12,edge_case,study
+gold_0077,journal_77,Managed to performance even though I was tired.,performance,ENTERTAINMENT,11,22,positive,concert_event
+gold_0315,journal_315,Another day of cigars. Getting worried.,cigars,SUBSTANCE,15,21,negative,smoking
+gold_0269,journal_269,Avoided up with sunrise all day.,up with sunrise,SLEEP,8,23,negation,wake_early
+gold_0321,journal_321,Late night did drugs at 2am.,did drugs,SUBSTANCE,11,20,time,drugs
+gold_0302,journal_302,Late night devotion at 3am.,devotion,SPIRITUAL,11,19,time,pray
+gold_0085,journal_85,netflix all night at 3am.,netflix all night,ENTERTAINMENT,0,17,time,binge_watch
+gold_0232,journal_232,Avoided building something all day.,building something,PROFESSIONAL,8,26,negation,side_project
+gold_0263,journal_263,2 hours of up before dawn today.,up before dawn,SLEEP,11,25,duration,wake_early
+gold_0037,journal_37,prepared food today.,prepared food,DAILY_LIVING,0,13,neutral,cook
+gold_0336,journal_336,2 hours of relaxation today.,relaxation,WELLNESS,11,21,duration,self_care
+gold_0396,journal_396,excessive coffee drinking,coffee,NUTRITION,10,16,edge_case,caffeine

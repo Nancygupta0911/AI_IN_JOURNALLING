@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "sleep_late",
+    "name": "Sleep Late",
+    "category": "sleep",
+    "description": "Going to bed after midnight; staying up late beyond normal bedtime",
+    "aliases": [
+      "slept late", "went to bed at 2am", "couldn't sleep", "burned the midnight oil",
+      "stayed up till 3", "late night", "sleep at dawn", "all-nighter", "up past midnight",
+      "stayed awake", "night owl", "late bedtime", "went to sleep late", "bedtime after 12"
+    ]
+  },
+  {
+    "id": "wake_early",
+    "name": "Wake Early",
+    "category": "sleep",
+    "description": "Waking up before 6 AM; early morning routine",
+    "aliases": [
+      "woke up early", "5am wake", "early morning", "sunrise wake", "up before dawn",
+      "morning routine started", "early riser", "woke at 5", "early start", "dawn wake",
+      "before 6am", "crack of dawn", "up with sunrise"
+    ]
+  },
+  {
+    "id": "oversleep",
+    "name": "Oversleep",
+    "category": "sleep",
+    "description": "Sleeping longer than intended; missing alarms",
+    "aliases": [
+      "overslept", "slept through alarm", "slept in", "missed my alarm", "woke up late",
+      "slept past noon", "alarm didn't work", "snoozed too much", "slept too long",
+      "late wake", "missed morning", "slept through"
+    ]
+  },
+  {
+    "id": "nap",
+    "name": "Nap",
+    "category": "sleep",
+    "description": "Taking daytime naps; brief sleep during the day",
+    "aliases": [
+      "took a nap", "afternoon nap", "power nap", "dozed off", "quick sleep",
+      "napped for an hour", "daytime sleep", "midday nap", "catnap", "short sleep",
+      "siesta", "nap time", "quick nap", "evening nap"
+    ]
+  },
+  {
+    "id": "insomnia",
+    "name": "Insomnia",
+    "category": "sleep",
+    "description": "Unable to fall asleep; sleep difficulties; lying awake",
+    "aliases": [
+      "couldn't fall asleep", "insomnia", "tossed and turned", "lying awake",
+      "can't sleep", "restless night", "awake all night", "trouble sleeping",
+      "sleep problems", "staring at ceiling", "wide awake"
+    ]
+  },
+  {
+    "id": "sleep_quality_poor",
+    "name": "Poor Sleep Quality",
+    "category": "sleep",
+    "description": "Restless sleep; frequent waking; unrefreshing sleep",
+    "aliases": [
+      "slept badly", "restless sleep", "kept waking up", "poor sleep",
+      "didn't sleep well", "interrupted sleep", "tossed all night", "bad sleep",
+      "fitful sleep", "woke up tired", "unrefreshing sleep"
+    ]
+  },
+  {
+    "id": "study",
+    "name": "Study",
+    "category": "academics",
+    "description": "Studying, revising, doing coursework, reading textbooks",
+    "aliases": [
+      "studied", "revision", "did assignments", "prepared for exam", "read textbook",
+      "coursework", "homework", "studying session", "study time", "reviewed notes",
+      "exam prep", "learning", "cramming", "revising", "academic work"
+    ]
+  },
+  {
+    "id": "attend_lecture",
+    "name": "Attend Lecture",
+    "category": "academics",
+    "description": "Attending classes, lectures, seminars, or online sessions",
+    "aliases": [
+      "went to lecture", "attended class", "online class", "zoom meeting", "seminar",
+      "went to college", "attended session", "class time", "went to uni", "virtual class",
+      "lecture hall", "attended course", "in class", "college class"
+    ]
+  },
+  {
+    "id": "skip_class",
+    "name": "Skip Class",
+    "category": "academics",
+    "description": "Missing classes or lectures; bunking; skipping sessions",
+    "aliases": [
+      "skipped class", "bunked", "missed lecture", "didn't attend", "skipped college",
+      "stayed home from class", "absent from class", "ditched class", "didn't go to lecture",
+      "missed session", "no show", "skipped uni"
+    ]
+  },
+  {
+    "id": "group_study",
+    "name": "Group Study",
+    "category": "academics",
+    "description": "Studying with classmates; collaborative learning; study groups",
+    "aliases": [
+      "group study", "studied with friends", "study group", "peer learning",
+      "collaborative study", "study session with classmates", "team study",
+      "studied together", "group revision"
+    ]
+  },
+  {
+    "id": "exam",
+    "name": "Take Exam",
+    "category": "academics",
+    "description": "Taking tests, exams, quizzes, assessments",
+    "aliases": [
+      "took exam", "had test", "exam day", "test today", "quiz", "midterm",
+      "final exam", "assessment", "examination", "wrote exam", "test time"
+    ]
+  },
+  {
+    "id": "procrastinate",
+    "name": "Procrastinate",
+    "category": "productivity",
+    "description": "Delaying tasks; avoiding work; wasting time",
+    "aliases": [
+      "procrastinated", "wasted time", "avoided work", "delayed assignment",
+      "put things off", "didn't do anything productive", "procrastinating",
+      "time wasting", "avoiding tasks", "putting off work", "distracted myself"
+    ]
+  },
+  {
+    "id": "complete_assignment",
+    "name": "Complete Assignment",
+    "category": "academics",
+    "description": "Finishing homework, assignments, projects, academic tasks",
+    "aliases": [
+      "finished assignment", "completed homework", "submitted project", "done with coursework",
+      "turned in work", "finished task", "assignment done", "submitted work",
+      "completed project", "handed in", "finished homework"
+    ]
+  },
+  {
+    "id": "all_nighter_study",
+    "name": "All-Nighter Study",
+    "category": "academics",
+    "description": "Studying through the night; cramming; no sleep before exam",
+    "aliases": [
+      "pulled all-nighter", "studied all night", "cramming session", "no sleep studying",
+      "study marathon", "overnight study", "exam cramming", "stayed up studying",
+      "night before exam", "last minute studying"
+    ]
+  },
+  {
+    "id": "social_media",
+    "name": "Social Media",
+    "category": "digital",
+    "description": "Using Instagram, TikTok, Facebook, Twitter, social platforms",
+    "aliases": [
+      "scrolled instagram", "watched reels", "browsing tiktok", "youtube shorts",
+      "facebook feed", "twitter scrolling", "social media binge", "instagram stories",
+      "snapchat", "scrolling", "endless scrolling", "social media time", "on insta"
+    ]
+  },
+  {
+    "id": "binge_watch",
+    "name": "Binge Watch",
+    "category": "entertainment",
+    "description": "Watching multiple episodes or movies in succession",
+    "aliases": [
+      "binged netflix", "watched series", "movie marathon", "watched 5 episodes",
+      "streaming all day", "youtube binge", "tv marathon", "episode after episode",
+      "netflix all night", "show binge", "watched whole season"
+    ]
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming",
+    "category": "entertainment",
+    "description": "Playing video games; console or PC gaming; mobile games",
+    "aliases": [
+      "played games", "gaming session", "played valorant", "cod session", "mobile gaming",
+      "played for 3 hours", "video games", "gaming time", "played fortnite", "ps5",
+      "xbox", "pc gaming", "online gaming", "multiplayer", "game night"
+    ]
+  },
+  {
+    "id": "exercise",
+    "name": "Exercise",
+    "category": "fitness",
+    "description": "Working out; gym sessions; physical training",
+    "aliases": [
+      "worked out", "went to gym", "exercise session", "fitness training", "hit the gym",
+      "workout done", "training", "gym time", "fitness", "gym session", "exercising",
+      "physical activity", "workout routine"
+    ]
+  },
+  {
+    "id": "running",
+    "name": "Running",
+    "category": "fitness",
+    "description": "Jogging or running outdoors or on treadmill",
+    "aliases": [
+      "went for a run", "morning jog", "ran 5k", "jogging", "evening run",
+      "treadmill session", "ran 3 miles", "outdoor run", "cardio run", "running time",
+      "jog", "sprint training"
+    ]
+  },
+  {
+    "id": "yoga",
+    "name": "Yoga",
+    "category": "fitness",
+    "description": "Practicing yoga; stretching; meditation poses",
+    "aliases": [
+      "did yoga", "yoga session", "morning yoga", "stretching", "yoga practice",
+      "asanas", "yoga class", "yoga routine", "yoga mat", "vinyasa", "hatha yoga"
+    ]
+  },
+  {
+    "id": "meditation",
+    "name": "Meditation",
+    "category": "wellness",
+    "description": "Meditating; mindfulness practice; breathing exercises",
+    "aliases": [
+      "meditated", "mindfulness", "breathing exercise", "meditation session",
+      "practiced mindfulness", "quiet time", "meditation practice", "breathwork",
+      "sitting meditation", "zen time", "calm meditation"
+    ]
+  },
+  {
+    "id": "skip_meal",
+    "name": "Skip Meal",
+    "category": "nutrition",
+    "description": "Missing breakfast, lunch, or dinner; not eating scheduled meals",
+    "aliases": [
+      "skipped breakfast", "didn't eat lunch", "missed dinner", "forgot to eat",
+      "no breakfast", "skipped meal", "missed lunch", "no dinner", "didn't eat",
+      "skipped eating", "forgot meal"
+    ]
+  },
+  {
+    "id": "healthy_eating",
+    "name": "Healthy Eating",
+    "category": "nutrition",
+    "description": "Eating nutritious food; salads; balanced meals; home-cooked food",
+    "aliases": [
+      "ate healthy", "had salad", "cooked at home", "nutritious meal", "balanced diet",
+      "ate vegetables", "healthy meal", "homemade food", "clean eating", "fresh food",
+      "healthy lunch", "veggie meal", "whole foods"
+    ]
+  },
+  {
+    "id": "junk_food",
+    "name": "Junk Food",
+    "category": "nutrition",
+    "description": "Eating fast food, processed snacks, unhealthy meals",
+    "aliases": [
+      "ate junk", "fast food", "ordered pizza", "chips and snacks", "mcdonalds",
+      "unhealthy eating", "instant noodles", "burger", "fries", "junk snacks",
+      "processed food", "takeout", "delivery food", "ate chips"
+    ]
+  },
+  {
+    "id": "cook",
+    "name": "Cook",
+    "category": "daily_living",
+    "description": "Preparing meals; cooking at home; making food",
+    "aliases": [
+      "cooked", "made dinner", "prepared meal", "cooking session", "made breakfast",
+      "tried new recipe", "cooked lunch", "made food", "home cooking", "meal prep",
+      "prepared food", "cooking time"
+    ]
+  },
+  {
+    "id": "coffee",
+    "name": "Coffee",
+    "category": "nutrition",
+    "description": "Drinking coffee; multiple cups; caffeine intake",
+    "aliases": [
+      "had coffee", "morning coffee", "third cup", "caffeine fix", "coffee break",
+      "drank espresso", "cappuccino", "latte", "coffee time", "caffeine",
+      "multiple coffees", "coffee addiction"
+    ]
+  },
+  {
+    "id": "overeating",
+    "name": "Overeating",
+    "category": "nutrition",
+    "description": "Eating excessively; binge eating; consuming too much food",
+    "aliases": [
+      "ate too much", "overate", "binge eating", "stuffed myself", "food binge",
+      "ate everything", "couldn't stop eating", "way too much food", "overindulged"
+    ]
+  },
+  {
+    "id": "late_night_snack",
+    "name": "Late Night Snacking",
+    "category": "nutrition",
+    "description": "Eating snacks late at night; midnight munchies",
+    "aliases": [
+      "midnight snack", "late night eating", "snacked at night", "ate at 2am",
+      "night munchies", "late snacking", "nighttime eating", "midnight munchies",
+      "ate before bed", "late night food"
+    ]
+  },
+  {
+    "id": "alcohol",
+    "name": "Alcohol",
+    "category": "substance",
+    "description": "Drinking alcohol; beer; wine; spirits",
+    "aliases": [
+      "drank", "had beers", "wine night", "drinking session", "went to bar",
+      "got drunk", "alcohol", "drinks", "beer", "wine", "vodka", "whiskey",
+      "cocktails", "drunk", "tipsy", "drinking"
+    ]
+  },
+  {
+    "id": "smoking",
+    "name": "Smoking",
+    "category": "substance",
+    "description": "Smoking cigarettes or other tobacco products",
+    "aliases": [
+      "smoked", "cigarette", "had a smoke", "smoking break", "chain smoking",
+      "tobacco", "cigars", "vaping", "vape", "e-cigarette", "smoke break"
+    ]
+  },
+  {
+    "id": "drugs",
+    "name": "Drug Use",
+    "category": "substance",
+    "description": "Using recreational drugs or substances",
+    "aliases": [
+      "smoked weed", "got high", "marijuana", "cannabis", "recreational drugs",
+      "substance use", "did drugs", "high", "stoned"
+    ]
+  },
+  {
+    "id": "socialize",
+    "name": "Socialize",
+    "category": "social",
+    "description": "Meeting friends; hanging out; social gatherings",
+    "aliases": [
+      "met friends", "hung out", "social time", "went out with friends", "party",
+      "gathering", "friends hangout", "social gathering", "meetup", "get together",
+      "spent time with friends", "social activity"
+    ]
+  },
+  {
+    "id": "call_family",
+    "name": "Call Family",
+    "category": "social",
+    "description": "Calling or video chatting with family members",
+    "aliases": [
+      "called mom", "talked to dad", "family call", "video call home", "called parents",
+      "spoke with family", "facetime family", "family chat", "called home",
+      "talked to siblings", "family video call"
+    ]
+  },
+  {
+    "id": "argue",
+    "name": "Argue",
+    "category": "social",
+    "description": "Having arguments; fights; disagreements; conflicts",
+    "aliases": [
+      "argued", "had a fight", "disagreement", "conflict", "fought with",
+      "heated argument", "quarrel", "fight", "argument", "dispute", "confrontation",
+      "fight with friend", "argument with"
+    ]
+  },
+  {
+    "id": "date",
+    "name": "Date",
+    "category": "social",
+    "description": "Going on dates; romantic activities; time with partner",
+    "aliases": [
+      "went on date", "dinner date", "date night", "met partner", "romantic evening",
+      "time with boyfriend", "time with girlfriend", "romantic date", "dating",
+      "out with partner", "relationship time"
+    ]
+  },
+  {
+    "id": "volunteer",
+    "name": "Volunteer",
+    "category": "social",
+    "description": "Volunteering; community service; helping others",
+    "aliases": [
+      "volunteered", "community service", "helped at shelter", "charity work",
+      "volunteer work", "helping others", "volunteer activity", "service work",
+      "community help"
+    ]
+  },
+  {
+    "id": "isolation",
+    "name": "Social Isolation",
+    "category": "social",
+    "description": "Avoiding social contact; staying alone; isolating from others",
+    "aliases": [
+      "stayed alone", "isolated myself", "avoided people", "didn't talk to anyone",
+      "alone all day", "no social contact", "isolating", "withdrew from others",
+      "avoiding friends", "hermit mode"
+    ]
+  },
+  {
+    "id": "read_book",
+    "name": "Read Book",
+    "category": "leisure",
+    "description": "Reading books; novels; non-fiction; leisure reading",
+    "aliases": [
+      "read book", "reading session", "finished chapter", "reading novel", "book time",
+      "read for an hour", "reading", "book", "novel reading", "finished book"
+    ]
+  },
+  {
+    "id": "listen_music",
+    "name": "Listen Music",
+    "category": "leisure",
+    "description": "Listening to music; playlists; concerts",
+    "aliases": [
+      "listened to music", "played playlist", "music session", "spotify",
+      "concert", "new album", "music time", "listening to songs", "headphones on",
+      "music", "songs"
+    ]
+  },
+  {
+    "id": "podcast",
+    "name": "Podcast",
+    "category": "leisure",
+    "description": "Listening to podcasts; audio content",
+    "aliases": [
+      "listened to podcast", "podcast episode", "audio content", "podcast binge",
+      "podcast time", "audio show", "podcast listening"
+    ]
+  },
+  {
+    "id": "write_journal",
+    "name": "Write Journal",
+    "category": "wellness",
+    "description": "Writing in journal; diary entries; reflective writing",
+    "aliases": [
+      "journaled", "wrote diary", "journal entry", "reflective writing",
+      "documented day", "diary writing", "journal time", "wrote in journal",
+      "diary entry", "personal writing"
+    ]
+  },
+  {
+    "id": "creative_work",
+    "name": "Creative Work",
+    "category": "hobbies",
+    "description": "Painting, drawing, crafts, creative projects",
+    "aliases": [
+      "painted", "drew", "creative project", "artwork", "crafts", "made something",
+      "art time", "painting session", "drawing", "sketching", "artistic work",
+      "creative activity"
+    ]
+  },
+  {
+    "id": "music_practice",
+    "name": "Music Practice",
+    "category": "hobbies",
+    "description": "Playing instruments; music practice; singing",
+    "aliases": [
+      "practiced guitar", "piano session", "music practice", "played instrument",
+      "sang", "vocal practice", "instrument practice", "band practice", "rehearsal"
+    ]
+  },
+  {
+    "id": "photography",
+    "name": "Photography",
+    "category": "hobbies",
+    "description": "Taking photos; photography sessions; photo editing",
+    "aliases": [
+      "took photos", "photography", "photo session", "camera work", "edited pictures",
+      "photoshoot", "taking pictures", "photo editing", "photography time"
+    ]
+  },
+  {
+    "id": "shopping",
+    "name": "Shopping",
+    "category": "daily_living",
+    "description": "Shopping for groceries, clothes, or other items",
+    "aliases": [
+      "went shopping", "bought groceries", "online shopping", "mall visit",
+      "shopping spree", "retail therapy", "grocery shopping", "shopping trip",
+      "bought stuff", "shopping time"
+    ]
+  },
+  {
+    "id": "clean",
+    "name": "Clean",
+    "category": "daily_living",
+    "description": "Cleaning room; house chores; organizing space",
+    "aliases": [
+      "cleaned room", "did chores", "organized desk", "tidied up", "cleaning session",
+      "laundry", "housework", "cleaning", "vacuumed", "dusted", "cleaned house",
+      "organizing", "decluttered"
+    ]
+  },
+  {
+    "id": "commute",
+    "name": "Commute",
+    "category": "daily_living",
+    "description": "Traveling to work or school; daily transportation",
+    "aliases": [
+      "commuted", "travel to work", "bus ride", "train journey", "drive to office",
+      "morning commute", "travel to college", "transit", "commuting", "on the way",
+      "traveling to", "drive to work"
+    ]
+  },
+  {
+    "id": "work",
+    "name": "Work",
+    "category": "professional",
+    "description": "Working at job; office work; professional tasks",
+    "aliases": [
+      "worked", "office day", "work tasks", "professional work", "job duties",
+      "at the office", "work time", "working", "at work", "job", "office work"
+    ]
+  },
+  {
+    "id": "meeting",
+    "name": "Meeting",
+    "category": "professional",
+    "description": "Attending work meetings; conferences; professional discussions",
+    "aliases": [
+      "had meeting", "conference call", "team meeting", "client meeting", "zoom call",
+      "discussion", "work meeting", "business meeting", "standup", "video meeting"
+    ]
+  },
+  {
+    "id": "overtime",
+    "name": "Work Overtime",
+    "category": "professional",
+    "description": "Working beyond regular hours; overtime; extra work hours",
+    "aliases": [
+      "worked late", "overtime", "worked extra hours", "stayed late at office",
+      "long work day", "extra hours", "working overtime", "late at work"
+    ]
+  },
+  {
+    "id": "side_project",
+    "name": "Side Project",
+    "category": "professional",
+    "description": "Working on personal projects; side hustles; freelance work",
+    "aliases": [
+      "worked on project", "side hustle", "personal project", "freelance work",
+      "building something", "side work", "passion project", "own project"
+    ]
+  },
+  {
+    "id": "learn_skill",
+    "name": "Learn Skill",
+    "category": "self_improvement",
+    "description": "Learning new skills; taking courses; skill development",
+    "aliases": [
+      "learned", "took course", "skill practice", "tutorial", "online learning",
+      "developing skill", "learning new skill", "course work", "training",
+      "skill building", "online course"
+    ]
+  },
+  {
+    "id": "code",
+    "name": "Code",
+    "category": "professional",
+    "description": "Programming; coding projects; software development",
+    "aliases": [
+      "coded", "programming", "worked on code", "debugging", "software development",
+      "coding session", "wrote code", "development", "coding", "programming time",
+      "building app", "software work"
+    ]
+  },
+  {
+    "id": "research",
+    "name": "Research",
+    "category": "academics",
+    "description": "Conducting research; reading papers; academic investigation",
+    "aliases": [
+      "researched", "read papers", "literature review", "research work",
+      "academic research", "research time", "reading research", "paper reading",
+      "research session"
+    ]
+  },
+  {
+    "id": "write",
+    "name": "Write",
+    "category": "creative",
+    "description": "Creative writing; blogging; writing articles or stories",
+    "aliases": [
+      "wrote", "writing session", "blogged", "article writing", "creative writing",
+      "drafted post", "writing time", "blog post", "content writing", "essay writing"
+    ]
+  },
+  {
+    "id": "walk",
+    "name": "Walk",
+    "category": "fitness",
+    "description": "Walking; strolling; casual walks outdoors",
+    "aliases": [
+      "went for walk", "evening walk", "stroll", "walked around", "morning walk",
+      "nature walk", "walking", "walk outside", "took a walk", "walking time"
+    ]
+  },
+  {
+    "id": "cycling",
+    "name": "Cycling",
+    "category": "fitness",
+    "description": "Riding bicycle; cycling for exercise or commute",
+    "aliases": [
+      "cycled", "bike ride", "cycling session", "rode bicycle", "biking",
+      "bicycle ride", "cycling time", "bike", "riding bike"
+    ]
+  },
+  {
+    "id": "swim",
+    "name": "Swim",
+    "category": "fitness",
+    "description": "Swimming; pool sessions; aquatic exercise",
+    "aliases": [
+      "went swimming", "pool time", "swim session", "swam laps", "swimming practice",
+      "swimming", "at the pool", "swim workout", "water exercise"
+    ]
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "category": "fitness",
+    "description": "Playing sports; team activities; athletic games",
+    "aliases": [
+      "played football", "basketball game", "sports session", "cricket match",
+      "badminton", "tennis", "soccer", "playing sports", "sports time",
+      "game", "match", "athletic activity"
+    ]
+  },
+  {
+    "id": "stretch",
+    "name": "Stretch",
+    "category": "fitness",
+    "description": "Stretching exercises; flexibility work; warm-up",
+    "aliases": [
+      "stretched", "stretching session", "flexibility work", "warm up",
+      "cool down", "stretching routine", "flexibility", "stretching time"
+    ]
+  },
+  {
+    "id": "therapy",
+    "name": "Therapy",
+    "category": "wellness",
+    "description": "Attending therapy sessions; counseling; mental health support",
+    "aliases": [
+      "therapy session", "saw therapist", "counseling", "mental health appointment",
+      "therapy", "counseling session", "therapist visit", "talk therapy",
+      "psychological support"
+    ]
+  },
+  {
+    "id": "self_care",
+    "name": "Self Care",
+    "category": "wellness",
+    "description": "Self-care activities; pampering; personal wellness",
+    "aliases": [
+      "self care", "spa day", "face mask", "bubble bath", "me time",
+      "pampered myself", "self care routine", "relaxation", "personal time",
+      "taking care of myself"
+    ]
+  },
+  {
+    "id": "nature",
+    "name": "Nature",
+    "category": "leisure",
+    "description": "Spending time in nature; hiking; outdoor activities",
+    "aliases": [
+      "went hiking", "nature walk", "outdoor time", "park visit", "in nature",
+      "trail", "hiking", "outdoors", "nature time", "outside", "fresh air"
+    ]
+  },
+  {
+    "id": "travel",
+    "name": "Travel",
+    "category": "leisure",
+    "description": "Traveling; trips; exploring new places",
+    "aliases": [
+      "traveled", "trip", "vacation", "exploring", "visited place", "journey",
+      "traveling", "on vacation", "holiday", "road trip", "travel time"
+    ]
+  },
+  {
+    "id": "movie_theater",
+    "name": "Movie Theater",
+    "category": "entertainment",
+    "description": "Going to cinema; watching movies in theater",
+    "aliases": [
+      "went to cinema", "movie theater", "watched film", "cinema visit", "theater",
+      "movies", "at the cinema", "film", "cinema experience"
+    ]
+  },
+  {
+    "id": "concert_event",
+    "name": "Concert/Event",
+    "category": "entertainment",
+    "description": "Attending concerts; shows; live events",
+    "aliases": [
+      "went to concert", "live show", "event", "performance", "attended show",
+      "concert", "live music", "festival", "live event", "show"
+    ]
+  },
+  {
+    "id": "pray",
+    "name": "Pray",
+    "category": "spiritual",
+    "description": "Prayer; religious practices; spiritual activities",
+    "aliases": [
+      "prayed", "prayer time", "religious practice", "worship", "spiritual time",
+      "prayers", "prayer", "devotion", "praying"
+    ]
+  },
+  {
+    "id": "church_temple",
+    "name": "Church/Temple",
+    "category": "spiritual",
+    "description": "Visiting places of worship; religious services",
+    "aliases": [
+      "went to church", "temple visit", "religious service", "mosque",
+      "worship service", "church service", "temple", "church", "place of worship",
+      "religious gathering"
+    ]
+  },
+  {
+    "id": "gratitude",
+    "name": "Gratitude Practice",
+    "category": "wellness",
+    "description": "Practicing gratitude; counting blessings; appreciation exercises",
+    "aliases": [
+      "practiced gratitude", "grateful for", "counted blessings", "appreciation",
+      "thankful", "gratitude journal", "feeling grateful", "appreciating"
+    ]
+  },
+  {
+    "id": "anxiety",
+    "name": "Feeling Anxious",
+    "category": "mental_state",
+    "description": "Experiencing anxiety; worry; stress; nervous feelings",
+    "aliases": [
+      "felt anxious", "anxiety", "worried", "stressed", "nervous", "panic",
+      "anxious", "stress", "feeling anxious", "worry", "panicking", "on edge"
+    ]
+  },
+  {
+    "id": "depressed",
+    "name": "Feeling Depressed",
+    "category": "mental_state",
+    "description": "Experiencing depression; sadness; low mood",
+    "aliases": [
+      "felt depressed", "depression", "sad", "down", "low mood", "hopeless",
+      "depressed", "feeling sad", "feeling down", "melancholy", "blue",
+      "feeling hopeless"
+    ]
+  },
+  {
+    "id": "happy",
+    "name": "Feeling Happy",
+    "category": "mental_state",
+    "description": "Experiencing happiness; joy; positive mood",
+    "aliases": [
+      "felt happy", "joyful", "good mood", "excited", "cheerful", "content",
+      "happy", "feeling happy", "great mood", "feeling good", "joy",
+      "feeling excited"
+    ]
+  },
+  {
+    "id": "energetic",
+    "name": "Feeling Energetic",
+    "category": "mental_state",
+    "description": "High energy; motivated; productive feeling",
+    "aliases": [
+      "felt energetic", "high energy", "motivated", "productive", "pumped",
+      "energized", "full of energy", "feeling energetic", "feeling motivated",
+      "feeling productive", "fired up", "ready to go"
+    ]
+  },
+  {
+    "id": "tired",
+    "name": "Feeling Tired",
+    "category": "mental_state",
+    "description": "Exhaustion; fatigue; low energy",
+    "aliases": [
+      "felt tired", "exhausted", "fatigue", "drained", "no energy", "worn out",
+      "tired", "feeling tired", "feeling exhausted", "burnt out", "fatigued",
+      "low energy", "sleepy", "lethargic"
+    ]
+  },
+  {
+    "id": "lonely",
+    "name": "Feeling Lonely",
+    "category": "mental_state",
+    "description": "Experiencing loneliness; isolation; feeling alone",
+    "aliases": [
+      "felt lonely", "isolated", "alone", "loneliness", "no one around",
+      "lonely", "feeling lonely", "feeling isolated", "feeling alone",
+      "solitary", "by myself"
+    ]
+  },
+  {
+    "id": "overwhelmed",
+    "name": "Feeling Overwhelmed",
+    "category": "mental_state",
+    "description": "Feeling overwhelmed; too much to handle; burned out",
+    "aliases": [
+      "overwhelmed", "too much", "can't handle", "burned out", "drowning in work",
+      "feeling overwhelmed", "overloaded", "too much to do", "swamped",
+      "can't cope", "feeling swamped"
+    ]
+  },
+  {
+    "id": "angry",
+    "name": "Feeling Angry",
+    "category": "mental_state",
+    "description": "Experiencing anger; frustration; irritation",
+    "aliases": [
+      "angry", "furious", "mad", "irritated", "frustrated", "annoyed",
+      "feeling angry", "feeling frustrated", "rage", "pissed off", "upset"
+    ]
+  },
+  {
+    "id": "calm",
+    "name": "Feeling Calm",
+    "category": "mental_state",
+    "description": "Feeling peaceful; relaxed; serene; tranquil",
+    "aliases": [
+      "calm", "peaceful", "relaxed", "serene", "tranquil", "feeling calm",
+      "feeling peaceful", "at peace", "centered", "composed"
+    ]
+  },
+  {
+    "id": "plan",
+    "name": "Planning",
+    "category": "productivity",
+    "description": "Making plans; scheduling; organizing tasks",
+    "aliases": [
+      "planned", "made schedule", "organized", "to-do list", "planned day",
+      "set goals", "planning", "scheduling", "made plans", "organized tasks",
+      "planning ahead", "agenda"
+    ]
+  },
+  {
+    "id": "reflect",
+    "name": "Reflect",
+    "category": "wellness",
+    "description": "Self-reflection; thinking about life; introspection",
+    "aliases": [
+      "reflected", "thought about", "introspection", "self-reflection",
+      "contemplated", "reflecting", "thinking about life", "pondering",
+      "self-examination", "soul searching"
+    ]
+  },
+  {
+    "id": "goal_setting",
+    "name": "Goal Setting",
+    "category": "self_improvement",
+    "description": "Setting goals; making resolutions; planning future",
+    "aliases": [
+      "set goals", "made resolution", "planned future", "goal setting",
+      "defined objectives", "setting goals", "new goals", "targets",
+      "objectives", "resolutions"
+    ]
+  },
+  {
+    "id": "celebrate",
+    "name": "Celebrate",
+    "category": "social",
+    "description": "Celebrating achievements; parties; special occasions",
+    "aliases": [
+      "celebrated", "birthday party", "achievement", "special occasion",
+      "celebration", "party time", "celebrating", "milestone", "festive"
+    ]
+  },
+  {
+    "id": "pet_time",
+    "name": "Pet Time",
+    "category": "leisure",
+    "description": "Spending time with pets; playing with animals",
+    "aliases": [
+      "played with dog", "pet time", "walked dog", "cat cuddles", "time with pet",
+      "playing with pet", "dog walk", "pet care", "animal time", "furry friend"
+    ]
+  },
+  {
+    "id": "garden",
+    "name": "Gardening",
+    "category": "hobbies",
+    "description": "Gardening; plant care; outdoor cultivation",
+    "aliases": [
+      "gardened", "watered plants", "plant care", "gardening work", "tended garden",
+      "gardening", "plants", "garden time", "yard work", "planting"
+    ]
+  },
+  {
+    "id": "break",
+    "name": "Take Break",
+    "category": "wellness",
+    "description": "Taking breaks; resting; pausing from work",
+    "aliases": [
+      "took break", "rest time", "break", "paused work", "downtime",
+      "taking break", "resting", "break time", "pause", "timeout"
+    ]
+  },
+  {
+    "id": "hydrate",
+    "name": "Drink Water",
+    "category": "wellness",
+    "description": "Drinking water; staying hydrated; water intake",
+    "aliases": [
+      "drank water", "hydrated", "water intake", "stayed hydrated", "lots of water",
+      "drinking water", "water", "hydration", "plenty of water"
+    ]
+  },
+  {
+    "id": "screen_time",
+    "name": "Excessive Screen Time",
+    "category": "digital",
+    "description": "Excessive phone or computer use; screen addiction",
+    "aliases": [
+      "too much screen", "phone all day", "computer hours", "screen addiction",
+      "eyes hurting", "screen time", "phone scrolling", "excessive screen",
+      "staring at screen", "device time", "too much phone"
+    ]
+  },
+  {
+    "id": "news",
+    "name": "Read News",
+    "category": "information",
+    "description": "Reading news; staying informed; current events",
+    "aliases": [
+      "read news", "news reading", "current events", "browsed headlines",
+      "newspaper", "reading news", "news", "headlines", "news articles"
+    ]
+  },
+  {
+    "id": "organize",
+    "name": "Organize",
+    "category": "productivity",
+    "description": "Organizing space; decluttering; arranging things",
+    "aliases": [
+      "organized", "decluttered", "arranged", "sorted things", "made order",
+      "organizing", "tidying", "putting things in order", "reorganized"
+    ]
+  },
+  {
+    "id": "phone_call",
+    "name": "Phone Call",
+    "category": "social",
+    "description": "Making or receiving phone calls; voice conversations",
+    "aliases": [
+      "phone call", "called someone", "talked on phone", "phone conversation",
+      "received call", "long phone call", "chatted on phone", "voice call"
+    ]
+  },
+  {
+    "id": "text_messaging",
+    "name": "Text Messaging",
+    "category": "digital",
+    "description": "Texting; messaging friends; WhatsApp chats",
+    "aliases": [
+      "texted", "messaging", "whatsapp", "chatting", "texting friends",
+      "sent messages", "chat", "dm", "instant messaging", "messaged"
+    ]
+  },
+  {
+    "id": "email_work",
+    "name": "Work Emails",
+    "category": "professional",
+    "description": "Checking and responding to work emails",
+    "aliases": [
+      "checked emails", "replied to emails", "inbox", "email work",
+      "work email", "email response", "clearing inbox", "email management"
+    ]
+  },
+  {
+    "id": "deadline_stress",
+    "name": "Deadline Stress",
+    "category": "mental_state",
+    "description": "Stress from approaching deadlines; time pressure",
+    "aliases": [
+      "deadline stress", "deadline approaching", "time pressure", "crunch time",
+      "deadline panic", "racing against deadline", "last minute deadline"
+    ]
+  },
+  {
+    "id": "breakthrough",
+    "name": "Breakthrough Moment",
+    "category": "mental_state",
+    "description": "Moment of clarity; breakthrough; sudden understanding",
+    "aliases": [
+      "breakthrough", "aha moment", "sudden clarity", "figured it out",
+      "breakthrough moment", "revelation", "eureka", "light bulb moment"
+    ]
+  },
+  {
+    "id": "distraction",
+    "name": "Getting Distracted",
+    "category": "productivity",
+    "description": "Being distracted; losing focus; attention wandering",
+    "aliases": [
+      "got distracted", "lost focus", "distracted", "can't focus",
+      "attention wandering", "easily distracted", "couldn't concentrate"
+    ]
+  },
+  {
+    "id": "deep_work",
+    "name": "Deep Work",
+    "category": "productivity",
+    "description": "Focused, uninterrupted work; flow state; concentrated effort",
+    "aliases": [
+      "deep work", "focused work", "flow state", "concentrated", "in the zone",
+      "uninterrupted work", "productive focus", "deep focus", "immersed in work"
+    ]
+  },
+  {
+    "id": "multitasking",
+    "name": "Multitasking",
+    "category": "productivity",
+    "description": "Doing multiple tasks simultaneously; juggling tasks",
+    "aliases": [
+      "multitasking", "juggling tasks", "multiple things at once",
+      "switching between tasks", "doing many things", "task switching"
+    ]
+  },
+  {
+    "id": "financial_stress",
+    "name": "Financial Stress",
+    "category": "mental_state",
+    "description": "Stress about money; financial worries; budget concerns",
+    "aliases": [
+      "money stress", "financial worry", "worried about money", "broke",
+      "financial stress", "budget concerns", "money problems", "financial anxiety"
+    ]
+  },
+  {
+    "id": "achievement",
+    "name": "Achievement",
+    "category": "mental_state",
+    "description": "Accomplishing goals; feeling accomplished; success",
+    "aliases": [
+      "accomplished", "achieved goal", "success", "achievement", "completed goal",
+      "reached milestone", "feeling accomplished", "proud of achievement"
+    ]
+  },
+  {
+    "id": "failure",
+    "name": "Experience Failure",
+    "category": "mental_state",
+    "description": "Experiencing failure; setback; disappointment",
+    "aliases": [
+      "failed", "didn't succeed", "setback", "failure", "disappointed",
+      "didn't work out", "unsuccessful", "fell short", "didn't make it"
+    ]
+  },
+  {
+    "id": "rejection",
+    "name": "Experience Rejection",
+    "category": "mental_state",
+    "description": "Being rejected; turned down; facing rejection",
+    "aliases": [
+      "rejected", "turned down", "rejection", "got rejected", "denied",
+      "didn't get accepted", "rejection letter", "turned away"
+    ]
+  },
+  {
+    "id": "compliment_receive",
+    "name": "Receive Compliment",
+    "category": "social",
+    "description": "Receiving praise; compliments; positive feedback",
+    "aliases": [
+      "got complimented", "received praise", "compliment", "positive feedback",
+      "someone praised me", "appreciation", "recognition"
+    ]
+  },
+  {
+    "id": "help_others",
+    "name": "Help Others",
+    "category": "social",
+    "description": "Helping friends or family; providing support; acts of kindness",
+    "aliases": [
+      "helped someone", "helped friend", "assisted", "provided support",
+      "helped out", "act of kindness", "supporting others", "lending hand"
+    ]
+  },
+  {
+    "id": "ask_help",
+    "name": "Ask for Help",
+    "category": "social",
+    "description": "Seeking help; asking for assistance; reaching out",
+    "aliases": [
+      "asked for help", "sought help", "reached out", "needed assistance",
+      "asked someone", "seeking support", "requested help"
+    ]
+  },
+  {
+    "id": "boundary_set",
+    "name": "Set Boundaries",
+    "category": "wellness",
+    "description": "Setting personal boundaries; saying no; protecting time",
+    "aliases": [
+      "set boundaries", "said no", "protected my time", "established limits",
+      "boundary setting", "stood my ground", "defended boundaries"
+    ]
+  },
+  {
+    "id": "comparison",
+    "name": "Social Comparison",
+    "category": "mental_state",
+    "description": "Comparing self to others; feeling inadequate; jealousy",
+    "aliases": [
+      "compared myself", "feeling inadequate", "jealous", "envious",
+      "comparing to others", "not good enough", "others are better", "comparison"
+    ]
+  },
+  {
+    "id": "imposter_syndrome",
+    "name": "Imposter Syndrome",
+    "category": "mental_state",
+    "description": "Feeling like a fraud; self-doubt; questioning abilities",
+    "aliases": [
+      "imposter syndrome", "feel like fraud", "self-doubt", "don't deserve",
+      "questioning abilities", "not qualified enough", "luck not skill"
+    ]
+  },
+  {
+    "id": "perfectionism",
+    "name": "Perfectionism",
+    "category": "mental_state",
+    "description": "Obsessing over perfection; never good enough; excessive standards",
+    "aliases": [
+      "perfectionism", "never good enough", "obsessing over details",
+      "has to be perfect", "can't be satisfied", "impossibly high standards"
+    ]
+  },
+  {
+    "id": "boredom",
+    "name": "Feeling Bored",
+    "category": "mental_state",
+    "description": "Experiencing boredom; lack of interest; restlessness",
+    "aliases": [
+      "bored", "nothing to do", "feeling bored", "restless", "uninterested",
+      "boredom", "so bored", "boring day", "monotonous"
+    ]
+  },
+  {
+    "id": "nostalgic",
+    "name": "Feeling Nostalgic",
+    "category": "mental_state",
+    "description": "Nostalgia; reminiscing; missing the past",
+    "aliases": [
+      "nostalgic", "reminiscing", "missing old times", "thinking about past",
+      "nostalgia", "miss how things were", "good old days", "remembering"
+    ]
+  },
+  {
+    "id": "video_call",
+    "name": "Video Call",
+    "category": "digital",
+    "description": "Video chatting; Zoom calls; virtual meetings",
+    "aliases": [
+      "video call", "zoom call", "facetime", "video chat", "virtual meeting",
+      "online video", "skype call", "google meet", "teams call"
+    ]
+  },
+  {
+    "id": "doom_scroll",
+    "name": "Doom Scrolling",
+    "category": "digital",
+    "description": "Compulsively scrolling negative news; endless browsing",
+    "aliases": [
+      "doom scrolling", "endless scrolling", "negative news", "can't stop scrolling",
+      "scrolling bad news", "depressing content", "news spiral"
+    ]
+  }
+]

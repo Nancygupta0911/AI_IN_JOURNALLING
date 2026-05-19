@@ -1,0 +1,108 @@
+{
+  "total_entries": 151614,
+  "total_keywords": 300,
+  "avg_frequency": 74.40333333333334,
+  "avg_composite_score": 0.2862757784641707,
+  "top_20": [
+    {
+      "phrase": "feel like",
+      "composite_score": 0.5778823138829988,
+      "frequency": 4976
+    },
+    {
+      "phrase": "feel",
+      "composite_score": 0.38,
+      "frequency": 0
+    },
+    {
+      "phrase": "news update",
+      "composite_score": 0.3437477585247587,
+      "frequency": 674
+    },
+    {
+      "phrase": "watching series",
+      "composite_score": 0.3369524634870137,
+      "frequency": 546
+    },
+    {
+      "phrase": "power nap",
+      "composite_score": 0.33482904073813813,
+      "frequency": 406
+    },
+    {
+      "phrase": "good luck",
+      "composite_score": 0.3300613009250478,
+      "frequency": 640
+    },
+    {
+      "phrase": "walk meditation",
+      "composite_score": 0.3295239818223873,
+      "frequency": 417
+    },
+    {
+      "phrase": "schedule havoc",
+      "composite_score": 0.3256722463214121,
+      "frequency": 20
+    },
+    {
+      "phrase": "good meal",
+      "composite_score": 0.32488214235742696,
+      "frequency": 604
+    },
+    {
+      "phrase": "playlist gamble",
+      "composite_score": 0.3230068253361169,
+      "frequency": 32
+    },
+    {
+      "phrase": "streaming youtube",
+      "composite_score": 0.3183270223515004,
+      "frequency": 655
+    },
+    {
+      "phrase": "browsing bonanza",
+      "composite_score": 0.3149527807445217,
+      "frequency": 22
+    },
+    {
+      "phrase": "entry gamble",
+      "composite_score": 0.3140300456758367,
+      "frequency": 26
+    },
+    {
+      "phrase": "audio books",
+      "composite_score": 0.3129801298104684,
+      "frequency": 543
+    },
+    {
+      "phrase": "app lockdown",
+      "composite_score": 0.31205896028401037,
+      "frequency": 26
+    },
+    {
+      "phrase": "nt think",
+      "composite_score": 0.3076483361706679,
+      "frequency": 477
+    },
+    {
+      "phrase": "travel purge",
+      "composite_score": 0.3074999394417953,
+      "frequency": 47
+    },
+    {
+      "phrase": "nj transit",
+      "composite_score": 0.3072186004676124,
+      "frequency": 8
+    },
+    {
+      "phrase": "celebrate twow",
+      "composite_score": 0.3060292690263006,
+      "frequency": 6
+    },
+    {
+      "phrase": "dour festival",
+      "composite_score": 0.30525061689381977,
+      "frequency": 6
+    }
+  ]
+}

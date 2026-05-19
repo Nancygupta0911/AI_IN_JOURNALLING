@@ -1,0 +1,88 @@
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# ============================================
+# Large Data Files (too large for GitHub)
+# ============================================
+# Raw datasets (can be downloaded separately)
+*.parquet
+*.csv
+!habit_tracking/data/raw/test_journals.csv
+!habit_tracking/data/gold/*.csv
+!habit_tracking/results/spans/*.csv
+!habit_tracking/results/labels/*.csv
+!emotion_detection/metrics/*.csv
+
+# Zip archives
+*.zip
+
+# Large model weights (>100MB)
+*.pt
+*.bin
+*.safetensors
+*.h5
+*.onnx
+
+# ============================================
+# Generated / Intermediate Files
+# ============================================
+# Logs
+*.log
+logs/
+training_logs/
+
+# Test results (generated output)
+test_results/
+
+# Archive folders (raw dataset downloads)
+archive*/
+
+# Misc
+DS.PY
+*.log
+
+# ============================================
+# IDE / OS
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Thumbs.db
+.DS_Store
+
+# ============================================
+# Gemini / AI assistant
+# ============================================
+.gemini/
+
+# ============================================
+# Large Emotion Dataset Files (downloadable)
+# ============================================
+emotion_dataset_2.csv
+emotions_dataset.parquet
+goemotions.csv
+student_journal.json
+train-00000-of-00001.parquet
+train (1).csv
+
+# Processed data splits (reproducible)
+processed_emotion_data_v4/csv_splits/
+
+# Preprocessing log
+preprocessing.log

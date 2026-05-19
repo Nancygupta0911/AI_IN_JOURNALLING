@@ -1,0 +1,284 @@
+# Complete Configuration for Habit Tracking Pipeline
+# Updated for Checkpoint 3 (Gold Set + NER Training)
+
+# ============================================
+# PATH CONFIGURATION
+# ============================================
+paths:
+  # Seeds and ontology
+  seed_ontology: "seeds/seed_ontology.json"
+  
+  # Raw data
+  raw_data: "data/raw"
+  test_journals: "data/raw/test_journals.csv"
+  
+  # Processed data
+  processed_data: "data/processed"
+  ner_train: "data/processed/ner_train.jsonl"
+  ner_val: "data/processed/ner_val.jsonl"
+  ner_test: "data/processed/ner_test.jsonl"
+  
+  # Gold set
+  gold_data: "data/gold"
+  gold_spans: "data/gold/gold_spans.csv"
+  
+  # Results
+  results: "results"
+  extracted_spans: "results/spans/test_spans.parquet"
+  weak_labels: "results/labels/weak_labels.parquet"
+  canonical_mappings: "results/canonical/mappings.parquet"
+  clusters: "results/clusters"
+  
+  # Models
+  models: "models"
+  ner_model: "models/ner/hf_ner"
+  embeddings_cache: "models/embeddings"
+  
+  # Database
+  database: "results/habits.db"
+
+# ============================================
+# EXTRACTION CONFIGURATION
+# ============================================
+extraction:
+  # Span parameters
+  min_span_length: 2
+  max_span_length: 10
+  context_window: 50
+  min_confidence: 0.3
+  
+  # NLP models
+  spacy_model: "en_core_web_sm"
+  use_keybert: false  # Set to true if you want KeyBERT (slower but better)
+  
+  # Batch processing
+  batch_size: 100
+
+# ============================================
+# WEAK SUPERVISION CONFIGURATION
+# ============================================
+weak_supervision:
+  # Semantic similarity
+  use_semantic_similarity: false  # Set to true for better accuracy (slower)
+  similarity_threshold: 0.65
+  embedding_model: "all-MiniLM-L6-v2"
+  device: "cpu"  # Change to "cuda" if GPU available
+  
+  # Label model training
+  n_epochs: 200
+  learning_rate: 0.01
+  seed: 42
+  tie_break_policy: "abstain"  # Options: "abstain", "random"
+  
+  # Coverage thresholds
+  min_lf_coverage: 0.5  # Minimum fraction of spans covered by LFs
+  min_lf_votes: 1  # Minimum LF votes required per span
+
+# ============================================
+# GOLD SET CONFIGURATION
+# ============================================
+gold_set:
+  # Generation parameters
+  num_spans: 400  # Target number of gold-labeled spans
+  min_spans_per_category: 5  # Minimum spans per category
+  
+  # Diversity parameters
+  include_edge_cases: true
+  include_ambiguous: true
+  edge_case_ratio: 0.15  # 15% edge cases
+  ambiguous_ratio: 0.10  # 10% ambiguous cases
+  
+  # Validation split
+  train_ratio: 0.7
+  val_ratio: 0.15
+  test_ratio: 0.15
+  
+  # Quality control
+  min_span_quality_score: 0.6  # Filter low-quality synthetic spans
+
+# ============================================
+# NER TRAINING CONFIGURATION
+# ============================================
+ner:
+  # Model selection
+  base_model: "bert-base-cased"  # Options: bert-base-cased, roberta-base, deberta-base
+  model_type: "huggingface"  # Options: "huggingface", "spacy"
+  
+  # Training hyperparameters
+  learning_rate: 2.0e-5
+  batch_size: 16
+  num_epochs: 5
+  max_length: 128
+  warmup_steps: 500
+  weight_decay: 0.01
+  
+  # Gradient and optimization
+  gradient_accumulation_steps: 1
+  max_grad_norm: 1.0
+  fp16: false  # Set true if GPU supports mixed precision
+  
+  # Early stopping
+  early_stopping_patience: 3
+  early_stopping_threshold: 0.001
+  
+  # Evaluation
+  eval_steps: 100
+  save_steps: 500
+  logging_steps: 50
+  
+  # Class balancing
+  use_class_weights: true
+  label_smoothing: 0.0
+  
+  # BIO scheme
+  bio_scheme: "BIO"  # Options: "BIO", "BIOES"
+  outside_label: "O"
+  
+  # Checkpointing
+  save_total_limit: 3
+  load_best_model_at_end: true
+  metric_for_best_model: "f1"
+  greater_is_better: true
+  
+  # Inference
+  inference_batch_size: 32
+  max_seq_length: 128
+
+# ============================================
+# CANONICALIZATION CONFIGURATION
+# ============================================
+canonicalization:
+  # Semantic matching
+  similarity_threshold: 0.65
+  embedding_model: "all-mpnet-base-v2"  # Options: all-mpnet-base-v2, all-MiniLM-L6-v2
+  device: "cpu"
+  batch_size: 32
+  
+  # Fuzzy matching
+  use_fuzzy_matching: true
+  fuzzy_threshold: 85  # Levenshtein similarity (0-100)
+  
+  # Clustering for new habits
+  min_cluster_size: 10
+  min_samples: 3
+  cluster_selection_epsilon: 0.0
+  
+  # Confidence thresholds
+  high_confidence: 0.75
+  medium_confidence: 0.60
+  low_confidence: 0.45
+
+# ============================================
+# DATABASE CONFIGURATION
+# ============================================
+database:
+  type: "sqlite"
+  path: "results/habits.db"
+  
+  # Schema
+  tables:
+    - journal_entries
+    - habit_logs
+    - daily_aggregates
+    - emotion_logs
+  
+  # Indexing
+  create_indexes: true
+
+# ============================================
+# TEMPORAL ANALYSIS CONFIGURATION
+# ============================================
+temporal_analysis:
+  # Rolling window analysis
+  rolling_window_days: 7
+  min_data_points: 3
+  
+  # Change-point detection
+  use_ruptures: true
+  ruptures_model: "rbf"
+  ruptures_min_size: 3
+  
+  # Correlation analysis
+  min_correlation_threshold: 0.3
+  correlation_method: "pearson"  # Options: pearson, spearman, kendall
+  
+  # Predictive modeling
+  prediction_horizon_days: 7
+  lstm_hidden_size: 64
+  lstm_num_layers: 2
+
+# ============================================
+# REPORTING CONFIGURATION
+# ============================================
+reporting:
+  # Weekly report
+  top_n_habits: 5
+  top_n_emotions: 5
+  
+  # Insight generation
+  min_correlation_for_insight: 0.35
+  min_frequency_for_trend: 3  # Minimum occurrences to call it a "trend"
+  
+  # Visualization
+  save_plots: true
+  plot_format: "png"  # Options: png, pdf, svg
+  dpi: 300
+
+# ============================================
+# EXPERIMENT TRACKING
+# ============================================
+experiment:
+  # Tracking backend
+  use_wandb: false  # Set true to enable Weights & Biases
+  use_mlflow: false  # Set true to enable MLflow
+  
+  # Experiment naming
+  project_name: "habit-tracking-pipeline"
+  experiment_name: "baseline"
+  
+  # Logging
+  log_level: "INFO"  # Options: DEBUG, INFO, WARNING, ERROR
+  save_logs: true
+  log_dir: "logs"
+
+# ============================================
+# REPRODUCIBILITY
+# ============================================
+reproducibility:
+  seed: 42
+  deterministic: true
+  benchmark: false  # Set true for faster training (less reproducible)
+
+# ============================================
+# RESOURCE LIMITS
+# ============================================
+resources:
+  # Memory management
+  max_memory_gb: 8
+  clear_cache_frequency: 100  # Steps between cache clearing
+  
+  # Parallel processing
+  num_workers: 4
+  use_multiprocessing: false  # Set true for CPU parallelization
+  
+  # GPU settings
+  cuda_device: 0
+  mixed_precision: false
+
+# ============================================
+# VALIDATION & QUALITY CONTROL
+# ============================================
+validation:
+  # Minimum quality thresholds
+  min_span_confidence: 0.3
+  min_bio_label_quality: 0.5
+  
+  # Sanity checks
+  check_label_consistency: true
+  check_tokenization: true
+  check_alignment: true
+  
+  # Error handling
+  skip_invalid_samples: true
+  log_errors: true
+  error_log_path: "logs/validation_errors.log"
